@@ -10,7 +10,7 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>100670</ActivationTimeMs>
+        <ActivationTimeMs>10000</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
@@ -19,9 +19,9 @@
     <SunAzimuth>-3.14159274</SunAzimuth>
     <SunElevation>0</SunElevation>
     <SunIntensity>0</SunIntensity>
-    <FogMultiplier>0</FogMultiplier>
+    <FogMultiplier>0.9349666</FogMultiplier>
     <FogDensity>0.003</FogDensity>
-    <FogColor x="0" y="0" z="0" />
+    <FogColor x="0.827103" y="0.827103" z="0.870634735" />
     <EnvironmentDefinition Type="MyObjectBuilder_EnvironmentDefinition" Subtype="Default" />
   </Environment>
   <VoxelHandVolumeChanged>0</VoxelHandVolumeChanged>
@@ -1249,7 +1249,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99949574</CurrentStoredPower>
+          <CurrentStoredPower>2.999882</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -2513,7 +2513,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99949574</CurrentStoredPower>
+          <CurrentStoredPower>2.999882</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3150,7 +3150,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99949574</CurrentStoredPower>
+          <CurrentStoredPower>2.999882</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3224,7 +3224,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>60</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -3282,7 +3282,7 @@
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>60</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -3998,7 +3998,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>3</CurrentShownTexture>
+          <CurrentShownTexture>0</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4079,7 +4079,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>0</CurrentShownTexture>
+          <CurrentShownTexture>1</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4160,7 +4160,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>0</CurrentShownTexture>
+          <CurrentShownTexture>1</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4241,7 +4241,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>3</CurrentShownTexture>
+          <CurrentShownTexture>0</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -5946,7 +5946,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.9632761</CurrentStoredPower>
+          <CurrentStoredPower>0.9617204</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -7297,28 +7297,6 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <EntityId>74630099760131590</EntityId>
           <Name>74630099760131590</Name>
           <Min x="0" y="1" z="1" />
-          <IntegrityPercent>0.177949712</IntegrityPercent>
-          <BuildPercent>0.177949712</BuildPercent>
-          <ConstructionStockpile>
-            <Items xsi:type="MyObjectBuilder_StockpileItem">
-              <Amount>60</Amount>
-              <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                <SubtypeName>SteelPlate</SubtypeName>
-              </PhysicalContent>
-            </Items>
-            <Items xsi:type="MyObjectBuilder_StockpileItem">
-              <Amount>20</Amount>
-              <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                <SubtypeName>Construction</SubtypeName>
-              </PhysicalContent>
-            </Items>
-            <Items xsi:type="MyObjectBuilder_StockpileItem">
-              <Amount>25</Amount>
-              <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                <SubtypeName>Computer</SubtypeName>
-              </PhysicalContent>
-            </Items>
-          </ConstructionStockpile>
           <Owner>144115188075855897</Owner>
           <BuiltBy>144115188075855897</BuiltBy>
           <ShareMode>Faction</ShareMode>
@@ -7328,7 +7306,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.900000036</CurrentStoredPower>
+          <CurrentStoredPower>0.905947566</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -7351,8 +7329,16 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
               <ComponentData>
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
-                  <Items />
-                  <nextItemId>0</nextItemId>
+                  <Items>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>2</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                        <SubtypeName>Scrap</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>12</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                  </Items>
+                  <nextItemId>13</nextItemId>
                   <Volume>15.625</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -7387,21 +7373,21 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>835</Amount>
+                          <Amount>521</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Iron</SubtypeName>
                           </PhysicalContent>
                           <ItemId>0</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>88.32</Amount>
+                          <Amount>67.52</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Nickel</SubtypeName>
                           </PhysicalContent>
                           <ItemId>1</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>143.3</Amount>
+                          <Amount>132.9</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Silicon</SubtypeName>
                           </PhysicalContent>
@@ -7417,8 +7403,16 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                       <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
                     </MyObjectBuilder_InventoryBase>
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
-                      <Items />
-                      <nextItemId>1</nextItemId>
+                      <Items>
+                        <MyObjectBuilder_InventoryItem>
+                          <Amount>50</Amount>
+                          <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                            <SubtypeName>SteelPlate</SubtypeName>
+                          </PhysicalContent>
+                          <ItemId>5</ItemId>
+                        </MyObjectBuilder_InventoryItem>
+                      </Items>
+                      <nextItemId>6</nextItemId>
                       <Volume>2</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -7438,7 +7432,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -7451,12 +7445,96 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <NextItemId>2</NextItemId>
+          <NextItemId>8</NextItemId>
           <CurrentProgress>0</CurrentProgress>
           <DisassembleEnabled>false</DisassembleEnabled>
           <RepeatAssembleEnabled>false</RepeatAssembleEnabled>
           <RepeatDisassembleEnabled>false</RepeatDisassembleEnabled>
           <SlaveEnabled>false</SlaveEnabled>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Refinery">
+          <SubtypeName>Blast Furnace</SubtypeName>
+          <EntityId>114757025464861640</EntityId>
+          <Name>114757025464861640</Name>
+          <Min x="-2" y="1" z="0" />
+          <IntegrityPercent>0.5149885</IntegrityPercent>
+          <BuildPercent>0.5149885</BuildPercent>
+          <BlockOrientation Forward="Right" Up="Backward" />
+          <ConstructionStockpile>
+            <Items xsi:type="MyObjectBuilder_StockpileItem">
+              <Amount>20</Amount>
+              <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                <SubtypeName>Construction</SubtypeName>
+              </PhysicalContent>
+            </Items>
+            <Items xsi:type="MyObjectBuilder_StockpileItem">
+              <Amount>10</Amount>
+              <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                <SubtypeName>Motor</SubtypeName>
+              </PhysicalContent>
+            </Items>
+            <Items xsi:type="MyObjectBuilder_StockpileItem">
+              <Amount>6</Amount>
+              <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                <SubtypeName>Computer</SubtypeName>
+              </PhysicalContent>
+            </Items>
+          </ConstructionStockpile>
+          <Owner>144115188075855897</Owner>
+          <BuiltBy>144115188075855897</BuiltBy>
+          <ShareMode>Faction</ShareMode>
+          <ComponentContainer>
+            <Components>
+              <ComponentData>
+                <TypeId>MyInventoryBase</TypeId>
+                <Component xsi:type="MyObjectBuilder_InventoryAggregate">
+                  <InventoryId>Inventory</InventoryId>
+                  <Inventories>
+                    <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
+                      <Items />
+                      <nextItemId>0</nextItemId>
+                      <Volume>4</Volume>
+                      <Mass>9223372036854.775807</Mass>
+                      <MaxItemCount>2147483647</MaxItemCount>
+                      <Size xsi:nil="true" />
+                      <InventoryFlags>CanReceive</InventoryFlags>
+                      <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                    </MyObjectBuilder_InventoryBase>
+                    <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
+                      <Items />
+                      <nextItemId>0</nextItemId>
+                      <Volume>4</Volume>
+                      <Mass>9223372036854.775807</Mass>
+                      <MaxItemCount>2147483647</MaxItemCount>
+                      <Size xsi:nil="true" />
+                      <InventoryFlags>CanSend</InventoryFlags>
+                      <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                    </MyObjectBuilder_InventoryBase>
+                  </Inventories>
+                </Component>
+              </ComponentData>
+              <ComponentData>
+                <TypeId>MyTimerComponent</TypeId>
+                <Component xsi:type="MyObjectBuilder_TimerComponent">
+                  <Repeat>true</Repeat>
+                  <TimeToEvent>0</TimeToEvent>
+                  <SetTimeMinutes>0</SetTimeMinutes>
+                  <TimerEnabled>false</TimerEnabled>
+                  <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
+                  <TimerType>Frame10</TimerType>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                  <TimerTickInFrames>60</TimerTickInFrames>
+                  <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
+                </Component>
+              </ComponentData>
+            </Components>
+          </ComponentContainer>
+          <ShowOnHUD>false</ShowOnHUD>
+          <ShowInTerminal>true</ShowInTerminal>
+          <ShowInToolbarConfig>true</ShowInToolbarConfig>
+          <ShowInInventory>true</ShowInInventory>
+          <NumberInGrid>1</NumberInGrid>
+          <Enabled>true</Enabled>
         </MyObjectBuilder_CubeBlock>
       </CubeBlocks>
       <IsStatic>true</IsStatic>
@@ -7555,6 +7633,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         </BoneInfo>
       </Skeleton>
       <ConveyorLines>
+        <MyObjectBuilder_ConveyorLine>
+          <StartPosition x="-1" y="1" z="0" />
+          <StartDirection>Left</StartDirection>
+          <EndPosition x="-2" y="1" z="0" />
+          <EndDirection>Right</EndDirection>
+          <Sections />
+          <ConveyorLineType>LARGE_LINE</ConveyorLineType>
+        </MyObjectBuilder_ConveyorLine>
         <MyObjectBuilder_ConveyorLine>
           <StartPosition x="-1" y="1" z="0" />
           <StartDirection>Backward</StartDirection>
@@ -7950,7 +8036,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99125957</CurrentStoredPower>
+          <CurrentStoredPower>2.99795437</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8075,7 +8161,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99125957</CurrentStoredPower>
+          <CurrentStoredPower>2.99795437</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8129,7 +8215,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99125957</CurrentStoredPower>
+          <CurrentStoredPower>2.99795437</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8255,7 +8341,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>4</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99125957</CurrentStoredPower>
+          <CurrentStoredPower>2.99795437</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8303,7 +8389,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>5</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99125957</CurrentStoredPower>
+          <CurrentStoredPower>2.99795437</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8461,7 +8547,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>6</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99125957</CurrentStoredPower>
+          <CurrentStoredPower>2.99795437</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -9832,7 +9918,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -10012,7 +10098,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -14996,7 +15082,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <SlotsGamepad />
           </Toolbar>
           <Delay>29000</Delay>
-          <CurrentTime>26012</CurrentTime>
+          <CurrentTime>17380</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -18360,7 +18446,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -19814,7 +19900,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>1</CurrentShownTexture>
+          <CurrentShownTexture>2</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -21491,14 +21577,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>135296356127215653</Name>
       <PositionAndOrientation>
-        <Position x="-288381.99331546994" y="-2401660.0718616261" z="384555.64250704908" />
-        <Forward x="0.9070179" y="0.286995769" z="-0.308142364" />
-        <Up x="-0.102785334" y="0.8605284" z="0.498924851" />
+        <Position x="-288382.53349358559" y="-2401658.8609483852" z="384553.44187448215" />
+        <Forward x="0.9598498" y="-0.0457405746" z="0.276758015" />
+        <Up x="-0.102832958" y="0.860554636" z="0.4988697" />
         <Orientation>
-          <X>0.244787574</X>
-          <Y>-0.534797</Y>
-          <Z>-0.0990698561</Z>
-          <W>0.8026558</W>
+          <X>0.196989432</X>
+          <Y>-0.7743218</Y>
+          <Z>-0.175834641</Z>
+          <W>0.5750679</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -21573,91 +21659,70 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                     <SubtypeName>WelderItem</SubtypeName>
                     <GunEntity xsi:type="MyObjectBuilder_Welder">
                       <SubtypeName>Welder</SubtypeName>
-                      <EntityId>87847178728466278</EntityId>
+                      <EntityId>105086206737314456</EntityId>
                       <PersistentFlags>None</PersistentFlags>
                     </GunEntity>
                   </PhysicalContent>
                   <ItemId>2</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
-                  <Amount>56</Amount>
+                  <Amount>46</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>Motor</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>35</ItemId>
+                  <ItemId>66</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>4</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>LargeTube</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>37</ItemId>
+                  <ItemId>67</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>1</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>Girder</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>44</ItemId>
+                  <ItemId>68</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
-                  <Amount>17</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>SteelPlate</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>47</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>11</Amount>
+                  <Amount>41</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>Construction</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>48</ItemId>
+                  <ItemId>69</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>4</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>RadioCommunication</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>51</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>2</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-                    <SubtypeName>Scrap</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>53</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>50</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>Construction</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>54</ItemId>
+                  <ItemId>70</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>3</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>Display</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>57</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>6</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>Computer</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>58</ItemId>
+                  <ItemId>72</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>34</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Component">
                     <SubtypeName>SmallTube</SubtypeName>
                   </PhysicalContent>
-                  <ItemId>62</ItemId>
+                  <ItemId>74</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>24</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                    <SubtypeName>PowerCell</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>75</ItemId>
                 </MyObjectBuilder_InventoryItem>
               </Items>
-              <nextItemId>63</nextItemId>
+              <nextItemId>76</nextItemId>
               <Volume>0.4</Volume>
               <Mass>9223372036854.775807</Mass>
               <MaxItemCount>2147483647</MaxItemCount>
@@ -21713,91 +21778,70 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
               <SubtypeName>WelderItem</SubtypeName>
               <GunEntity xsi:type="MyObjectBuilder_Welder">
                 <SubtypeName>Welder</SubtypeName>
-                <EntityId>87847178728466278</EntityId>
+                <EntityId>105086206737314456</EntityId>
                 <PersistentFlags>None</PersistentFlags>
               </GunEntity>
             </PhysicalContent>
             <ItemId>2</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
-            <Amount>56</Amount>
+            <Amount>46</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>Motor</SubtypeName>
             </PhysicalContent>
-            <ItemId>35</ItemId>
+            <ItemId>66</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>4</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>LargeTube</SubtypeName>
             </PhysicalContent>
-            <ItemId>37</ItemId>
+            <ItemId>67</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>1</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>Girder</SubtypeName>
             </PhysicalContent>
-            <ItemId>44</ItemId>
+            <ItemId>68</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
-            <Amount>17</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>SteelPlate</SubtypeName>
-            </PhysicalContent>
-            <ItemId>47</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>11</Amount>
+            <Amount>41</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>Construction</SubtypeName>
             </PhysicalContent>
-            <ItemId>48</ItemId>
+            <ItemId>69</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>4</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>RadioCommunication</SubtypeName>
             </PhysicalContent>
-            <ItemId>51</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>2</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-              <SubtypeName>Scrap</SubtypeName>
-            </PhysicalContent>
-            <ItemId>53</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>50</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>Construction</SubtypeName>
-            </PhysicalContent>
-            <ItemId>54</ItemId>
+            <ItemId>70</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>3</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>Display</SubtypeName>
             </PhysicalContent>
-            <ItemId>57</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>6</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>Computer</SubtypeName>
-            </PhysicalContent>
-            <ItemId>58</ItemId>
+            <ItemId>72</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>34</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Component">
               <SubtypeName>SmallTube</SubtypeName>
             </PhysicalContent>
-            <ItemId>62</ItemId>
+            <ItemId>74</ItemId>
+          </MyObjectBuilder_InventoryItem>
+          <MyObjectBuilder_InventoryItem>
+            <Amount>24</Amount>
+            <PhysicalContent xsi:type="MyObjectBuilder_Component">
+              <SubtypeName>PowerCell</SubtypeName>
+            </PhysicalContent>
+            <ItemId>75</ItemId>
           </MyObjectBuilder_InventoryItem>
         </Items>
-        <nextItemId>63</nextItemId>
+        <nextItemId>76</nextItemId>
         <Volume>0.4</Volume>
         <Mass>9223372036854.775807</Mass>
         <MaxItemCount>2147483647</MaxItemCount>
@@ -21807,18 +21851,18 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       </Inventory>
       <HandWeapon xsi:type="MyObjectBuilder_Welder">
         <SubtypeName>Welder</SubtypeName>
-        <EntityId>87847178728466278</EntityId>
+        <EntityId>105086206737314456</EntityId>
         <PersistentFlags>CastShadows InScene</PersistentFlags>
-        <Name>87847178728466278</Name>
+        <Name>105086206737314456</Name>
         <PositionAndOrientation>
-          <Position x="-288381.86696777923" y="-2401658.6064448003" z="384556.49732257694" />
-          <Forward x="0.6742542" y="0.7331364" z="0.08897635" />
-          <Up x="-0.6861938" y="0.57741344" z="0.442403466" />
+          <Position x="-288382.47599532886" y="-2401657.6528149019" z="384554.35637103952" />
+          <Forward x="0.8841675" y="0.14229767" z="0.44499734" />
+          <Up x="-0.304460257" y="0.8979266" z="0.317843437" />
           <Orientation>
-            <X>0.44287</X>
-            <Y>-0.590215</Y>
-            <Z>0.123142861</Z>
-            <W>0.6635874</W>
+            <X>0.2195001</X>
+            <Y>-0.82116735</Y>
+            <Z>-0.0534423254</Z>
+            <W>0.524068534</W>
           </Orientation>
         </PositionAndOrientation>
         <LocalPositionAndOrientation xsi:nil="true" />
@@ -21834,13 +21878,13 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         </ComponentContainer>
       </HandWeapon>
       <Battery>
-        <CurrentCapacity>8.019523E-06</CurrentCapacity>
+        <CurrentCapacity>4.34873027E-06</CurrentCapacity>
         <RegenEffects />
       </Battery>
       <LightEnabled>true</LightEnabled>
       <UsingLadder xsi:nil="true" />
-      <HeadAngle x="43.4226379" y="0" />
-      <LinearVelocity x="0.0001656696" y="0.000122796744" z="1.43013895E-05" />
+      <HeadAngle x="23.2362061" y="0" />
+      <LinearVelocity x="-7.93917861E-05" y="1.28624961E-05" z="6.649643E-06" />
       <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
       <JetpackEnabled>false</JetpackEnabled>
       <ColorMaskHSV x="0" y="-0.96" z="-0.5" />
@@ -21878,14 +21922,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>73590316462475500</Name>
       <PositionAndOrientation>
-        <Position x="-288384.39838946005" y="-2401655.8749939613" z="384549.93067268119" />
-        <Forward x="-0.730052352" y="0.174891442" z="-0.6606333" />
-        <Up x="0.420417249" y="0.877061" z="-0.232407689" />
+        <Position x="-288384.69581377646" y="-2401655.3369080238" z="384548.94092658744" />
+        <Forward x="-0.7598232" y="-0.6500025" z="0.012852028" />
+        <Up x="-0.0896855" y="0.0852177143" z="-0.992317557" />
         <Orientation>
-          <X>-0.0163958464</X>
-          <Y>0.4115999</Y>
-          <Z>-0.247387722</Z>
-          <W>0.8769926</W>
+          <X>-0.626807</X>
+          <Y>0.336955458</Y>
+          <Z>-0.253976524</Z>
+          <W>0.6550343</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
