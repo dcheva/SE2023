@@ -10,7 +10,7 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>133970</ActivationTimeMs>
+        <ActivationTimeMs>3100958</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
@@ -1241,7 +1241,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99988127</CurrentStoredPower>
+          <CurrentStoredPower>2.99975252</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -2505,7 +2505,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.999882</CurrentStoredPower>
+          <CurrentStoredPower>2.99975324</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3142,7 +3142,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.999882</CurrentStoredPower>
+          <CurrentStoredPower>2.99975324</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3990,7 +3990,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>1</CurrentShownTexture>
+          <CurrentShownTexture>2</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4071,7 +4071,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>2</CurrentShownTexture>
+          <CurrentShownTexture>3</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4152,7 +4152,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>2</CurrentShownTexture>
+          <CurrentShownTexture>3</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4233,7 +4233,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>1</CurrentShownTexture>
+          <CurrentShownTexture>2</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -6194,7 +6194,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.991759241</CurrentStoredPower>
+          <CurrentStoredPower>0.9900169</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -6216,7 +6216,7 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>2035.546907</Amount>
+                      <Amount>2035.494407</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Ore">
                         <SubtypeName>Ice</SubtypeName>
                       </PhysicalContent>
@@ -6246,10 +6246,10 @@
                   <Repeat>true</Repeat>
                   <TimeToEvent>0</TimeToEvent>
                   <SetTimeMinutes>0</SetTimeMinutes>
-                  <TimerEnabled>false</TimerEnabled>
+                  <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>190</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>290</FramesFromLastTrigger>
                   <TimerTickInFrames>300</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -6301,16 +6301,7 @@
               <ComponentData>
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
-                  <Items>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>337.837843</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-                        <SubtypeName>Ice</SubtypeName>
-                        <MaterialNameString>TritonIce</MaterialNameString>
-                      </PhysicalContent>
-                      <ItemId>0</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                  </Items>
+                  <Items />
                   <nextItemId>1</nextItemId>
                   <Volume>0.125</Volume>
                   <Mass>9223372036854.775807</Mass>
@@ -7235,14 +7226,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>135296356127215653</Name>
       <PositionAndOrientation>
-        <Position x="-288385.64124723087" y="-2401650.4699983015" z="384538.31915397459" />
-        <Forward x="0.994643033" y="0.08520223" z="0.05853337" />
-        <Up x="-0.103068143" y="0.860731065" z="0.498516858" />
+        <Position x="-288380.78421816014" y="-2401651.0217369823" z="384540.27118847705" />
+        <Forward x="-0.8044785" y="0.223004073" z="-0.5505302" />
+        <Up x="-0.10264349" y="0.8607104" z="0.498640031" />
         <Orientation>
-          <X>0.217885062</X>
-          <Y>-0.694112957</Y>
-          <Z>-0.148864329</Z>
-          <W>0.6697557</W>
+          <X>0.208449766</X>
+          <Y>0.425774127</Y>
+          <Z>0.16184403</Z>
+          <W>0.865489244</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -7293,7 +7284,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                     <SubtypeName>HandDrillItem</SubtypeName>
                     <GunEntity xsi:type="MyObjectBuilder_HandDrill">
                       <SubtypeName>HandDrill</SubtypeName>
-                      <EntityId>81231419665559733</EntityId>
+                      <EntityId>106281359006843305</EntityId>
                       <PersistentFlags>None</PersistentFlags>
                     </GunEntity>
                   </PhysicalContent>
@@ -7310,7 +7301,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <Amount>1</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
                     <SubtypeName>HydrogenBottle</SubtypeName>
-                    <GasLevel>0.8943815</GasLevel>
+                    <GasLevel>0.800007343</GasLevel>
                   </PhysicalContent>
                   <ItemId>3</ItemId>
                 </MyObjectBuilder_InventoryItem>
@@ -7373,15 +7364,15 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <ItemId>11</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
-                  <Amount>1175.338638</Amount>
+                  <Amount>9466.704439</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-                    <SubtypeName>Ice</SubtypeName>
-                    <MaterialNameString>Snow</MaterialNameString>
+                    <SubtypeName>Stone</SubtypeName>
+                    <MaterialNameString>TritonStone</MaterialNameString>
                   </PhysicalContent>
-                  <ItemId>12</ItemId>
+                  <ItemId>15</ItemId>
                 </MyObjectBuilder_InventoryItem>
               </Items>
-              <nextItemId>15</nextItemId>
+              <nextItemId>16</nextItemId>
               <Volume>0.4</Volume>
               <Mass>9223372036854.775807</Mass>
               <MaxItemCount>2147483647</MaxItemCount>
@@ -7413,7 +7404,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
               <SubtypeName>HandDrillItem</SubtypeName>
               <GunEntity xsi:type="MyObjectBuilder_HandDrill">
                 <SubtypeName>HandDrill</SubtypeName>
-                <EntityId>81231419665559733</EntityId>
+                <EntityId>106281359006843305</EntityId>
                 <PersistentFlags>None</PersistentFlags>
               </GunEntity>
             </PhysicalContent>
@@ -7430,7 +7421,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <Amount>1</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
               <SubtypeName>HydrogenBottle</SubtypeName>
-              <GasLevel>0.8943815</GasLevel>
+              <GasLevel>0.800007343</GasLevel>
             </PhysicalContent>
             <ItemId>3</ItemId>
           </MyObjectBuilder_InventoryItem>
@@ -7493,15 +7484,15 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <ItemId>11</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
-            <Amount>1175.338638</Amount>
+            <Amount>9466.704439</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-              <SubtypeName>Ice</SubtypeName>
-              <MaterialNameString>Snow</MaterialNameString>
+              <SubtypeName>Stone</SubtypeName>
+              <MaterialNameString>TritonStone</MaterialNameString>
             </PhysicalContent>
-            <ItemId>12</ItemId>
+            <ItemId>15</ItemId>
           </MyObjectBuilder_InventoryItem>
         </Items>
-        <nextItemId>15</nextItemId>
+        <nextItemId>16</nextItemId>
         <Volume>0.4</Volume>
         <Mass>9223372036854.775807</Mass>
         <MaxItemCount>2147483647</MaxItemCount>
@@ -7510,13 +7501,13 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
       </Inventory>
       <Battery>
-        <CurrentCapacity>8.903717E-06</CurrentCapacity>
+        <CurrentCapacity>8.541722E-06</CurrentCapacity>
         <RegenEffects />
       </Battery>
       <LightEnabled>true</LightEnabled>
       <UsingLadder xsi:nil="true" />
-      <HeadAngle x="4.792462" y="0" />
-      <LinearVelocity x="7.955707E-06" y="-1.797732E-05" z="-7.345807E-06" />
+      <HeadAngle x="21.63871" y="0" />
+      <LinearVelocity x="-8.654781E-06" y="7.272884E-05" z="4.21777368E-05" />
       <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
       <JetpackEnabled>false</JetpackEnabled>
       <ColorMaskHSV x="0" y="-0.96" z="-0.5" />
@@ -7524,7 +7515,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <DisplayName>tuttop</DisplayName>
       <IsInFirstPersonView>true</IsInFirstPersonView>
       <EnableBroadcasting>true</EnableBroadcasting>
-      <OxygenLevel>0.998950541</OxygenLevel>
+      <OxygenLevel>1</OxygenLevel>
       <EnvironmentOxygenLevel>0.9</EnvironmentOxygenLevel>
       <StoredGases>
         <StoredGas>
@@ -7533,7 +7524,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         </StoredGas>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-          <FillLevel>0.998950541</FillLevel>
+          <FillLevel>1</FillLevel>
         </StoredGas>
       </StoredGases>
       <EnabledComponents>
@@ -8071,7 +8062,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99841118</CurrentStoredPower>
+          <CurrentStoredPower>2.99623942</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8196,7 +8187,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99841022</CurrentStoredPower>
+          <CurrentStoredPower>2.99623847</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8250,7 +8241,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99840879</CurrentStoredPower>
+          <CurrentStoredPower>2.996237</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8376,7 +8367,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>4</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99840713</CurrentStoredPower>
+          <CurrentStoredPower>2.99623537</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8424,7 +8415,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>5</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99840569</CurrentStoredPower>
+          <CurrentStoredPower>2.996234</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8582,7 +8573,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>6</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99840474</CurrentStoredPower>
+          <CurrentStoredPower>2.996233</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -15117,7 +15108,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <SlotsGamepad />
           </Toolbar>
           <Delay>29000</Delay>
-          <CurrentTime>7254</CurrentTime>
+          <CurrentTime>27672</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -19935,7 +19926,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>2</CurrentShownTexture>
+          <CurrentShownTexture>3</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -21365,6 +21356,396 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <LocalPositionAndOrientation xsi:nil="true" />
       <Item>
         <Amount>99.164088</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>118748111614175214</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>118748111614175214</Name>
+      <PositionAndOrientation>
+        <Position x="-288051.22419512412" y="-2401749.9218689613" z="384775.49317268119" />
+        <Forward x="-0.7507756" y="0.267750382" z="-0.6038589" />
+        <Up x="-0.09901175" y="0.8582232" z="0.503636241" />
+        <Orientation>
+          <X>0.218524814</X>
+          <Y>0.3877079</Y>
+          <Z>0.1521028</Z>
+          <W>0.8824932</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>1513.176481</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Ice</SubtypeName>
+          <MaterialNameString>Snow</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>111750417993368900</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>111750417993368900</Name>
+      <PositionAndOrientation>
+        <Position x="-288018.01582110068" y="-2401821.9130798988" z="384900.85645393119" />
+        <Forward x="-0.36603573" y="-0.5246338" z="0.7686199" />
+        <Up x="-0.846410334" y="0.530977" z="-0.0406547636" />
+        <Orientation>
+          <X>-0.4612083</X>
+          <Y>0.8195102</Y>
+          <Z>0.147642866</Z>
+          <W>0.306417227</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>70.110216</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>79366212408605170</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>79366212408605170</Name>
+      <PositionAndOrientation>
+        <Position x="-288020.95625078818" y="-2401821.47997443" z="384899.35694221244" />
+        <Forward x="-0.06019781" y="0.6350605" z="-0.7701132" />
+        <Up x="-0.0952311456" y="-0.771646857" z="-0.6288814" />
+        <Orientation>
+          <X>0.044442378</X>
+          <Y>-0.336107522</Y>
+          <Z>0.940132141</Z>
+          <W>0.0347591154</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>212.517952</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>103136480925546403</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>103136480925546403</Name>
+      <PositionAndOrientation>
+        <Position x="-288017.0287605538" y="-2401820.5288025551" z="384898.38575080619" />
+        <Forward x="-0.824667752" y="0.4203245" z="0.37848416" />
+        <Up x="-0.531310141" y="-0.805161" z="-0.2634864" />
+        <Orientation>
+          <X>0.7709793</X>
+          <Y>-0.307949722</Y>
+          <Z>0.5551319</Z>
+          <W>0.050856784</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>257.956784</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>104223648274111329</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>104223648274111329</Name>
+      <PositionAndOrientation>
+        <Position x="-288033.18440020224" y="-2401757.6562439613" z="384771.61084846244" />
+        <Forward x="-0.07378881" y="0.942565143" z="0.325769782" />
+        <Up x="-0.0962965" y="0.318399876" z="-0.9430527" />
+        <Orientation>
+          <X>-0.06073765</X>
+          <Y>0.8119088</Y>
+          <Z>-0.580612659</Z>
+          <W>0.00200682343</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>13.354532</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Ice</SubtypeName>
+          <MaterialNameString>TritonIce</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>137919644133617529</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>137919644133617529</Name>
+      <PositionAndOrientation>
+        <Position x="-288032.98505938193" y="-2401757.2978455238" z="384771.27393439994" />
+        <Forward x="0.379910141" y="-0.9153088" z="0.133707881" />
+        <Up x="0.2999486" y="0.258631766" z="0.918226659" />
+        <Orientation>
+          <X>-0.00291857379</X>
+          <Y>0.752891362</Y>
+          <Z>0.6088314</Z>
+          <W>-0.249940678</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>217.030192</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>79586634295535698</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>79586634295535698</Name>
+      <PositionAndOrientation>
+        <Position x="-288033.27631914755" y="-2401757.5703064613" z="384771.39795783744" />
+        <Forward x="-0.109384149" y="0.351419032" z="-0.929806352" />
+        <Up x="0.900662959" y="-0.36070168" z="-0.242282331" />
+        <Orientation>
+          <X>0.0509166941</X>
+          <Y>0.180289567</Y>
+          <Z>-0.8232607</Z>
+          <W>0.535859</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>17.551668</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Ice</SubtypeName>
+          <MaterialNameString>TritonIce</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>92190925445320696</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>92190925445320696</Name>
+      <PositionAndOrientation>
+        <Position x="-288019.02033770224" y="-2401822.6020447426" z="384901.34522346244" />
+        <Forward x="-0.5477567" y="-0.195757255" z="0.813413262" />
+        <Up x="0.504416" y="0.6983925" z="0.5077523" />
+        <Orientation>
+          <X>0.33449325</X>
+          <Y>0.891527355</Y>
+          <Z>0.197276548</Z>
+          <W>0.233184934</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>108.8732</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>121503221530696293</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>121503221530696293</Name>
+      <PositionAndOrientation>
+        <Position x="-288033.02045977255" y="-2401757.6054627113" z="384771.37403205619" />
+        <Forward x="0.419170052" y="0.8188417" z="0.39216727" />
+        <Up x="-0.208951235" y="0.5073572" z="-0.8360193" />
+        <Orientation>
+          <X>0.01784481</X>
+          <Y>0.8341254</Y>
+          <Z>-0.49598676</Z>
+          <W>-0.2406523</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>21.60334</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>85859653872861797</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>85859653872861797</Name>
+      <PositionAndOrientation>
+        <Position x="-288020.8324714913" y="-2401821.6035095863" z="384899.72071174369" />
+        <Forward x="0.4214881" y="0.903496742" z="0.0777263641" />
+        <Up x="-0.6058106" y="0.344318658" z="-0.717243433" />
+        <Orientation>
+          <X>-0.1210558</X>
+          <Y>0.724022567</Y>
+          <Z>-0.5596304</Z>
+          <W>-0.3846435</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>315.130489</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>79452270044795329</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>79452270044795329</Name>
+      <PositionAndOrientation>
+        <Position x="-288032.93745196005" y="-2401757.65966193" z="384771.60059455619" />
+        <Forward x="0.5822939" y="0.759806752" z="0.2891842" />
+        <Up x="-0.7390517" y="0.346516728" z="0.5776926" />
+        <Orientation>
+          <X>0.5659936</X>
+          <Y>-0.5694237</Y>
+          <Z>0.07995546</Z>
+          <W>0.590774953</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>11.8283</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Ice</SubtypeName>
+          <MaterialNameString>TritonIce</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>114857850697292743</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>114857850697292743</Name>
+      <PositionAndOrientation>
+        <Position x="-288018.01655352255" y="-2401822.0400330238" z="384901.06787971244" />
+        <Forward x="0.304995477" y="0.4265998" z="0.8514635" />
+        <Up x="0.459158" y="0.7174191" z="-0.523911953" />
+        <Orientation>
+          <X>0.2737186</X>
+          <Y>0.92239356</Y>
+          <Z>-0.25762102</Z>
+          <W>-0.0888797343</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>42.235344</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>142309662568638014</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>142309662568638014</Name>
+      <PositionAndOrientation>
+        <Position x="-288032.78059160849" y="-2401757.56981818" z="384771.37354377494" />
+        <Forward x="-0.6357322" y="-0.349044532" z="-0.6884856" />
+        <Up x="-0.771881461" y="0.295064151" z="0.5631482" />
+        <Orientation>
+          <X>0.0758844838</X>
+          <Y>0.387296677</Y>
+          <Z>0.5888204</Z>
+          <W>0.7053605</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>199.17328</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>132552636147766554</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>132552636147766554</Name>
+      <PositionAndOrientation>
+        <Position x="-288021.21015703818" y="-2401821.6435486488" z="384899.46485236869" />
+        <Forward x="-0.113403082" y="0.628697336" z="-0.769336939" />
+        <Up x="-0.483447522" y="-0.711398661" z="-0.5100886" />
+        <Orientation>
+          <X>0.136074468</X>
+          <Y>-0.3111515</Y>
+          <Z>0.9149771</Z>
+          <W>0.217911452</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>120.575656</Amount>
+        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+          <SubtypeName>Stone</SubtypeName>
+          <MaterialNameString>TritonStone</MaterialNameString>
+        </PhysicalContent>
+        <ItemId>0</ItemId>
+      </Item>
+    </MyObjectBuilder_EntityBase>
+    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
+      <SubtypeName />
+      <EntityId>119222048118139929</EntityId>
+      <PersistentFlags>CastShadows InScene</PersistentFlags>
+      <Name>119222048118139929</Name>
+      <PositionAndOrientation>
+        <Position x="-288032.49030840537" y="-2401757.4609314613" z="384771.45557502494" />
+        <Forward x="-0.377751976" y="-0.909795046" z="-0.171978474" />
+        <Up x="-0.8805855" y="0.2956105" z="0.370383173" />
+        <Orientation>
+          <X>-0.248131514</X>
+          <Y>0.5936679</Y>
+          <Z>0.539097</Z>
+          <W>0.5434737</W>
+        </Orientation>
+      </PositionAndOrientation>
+      <LocalPositionAndOrientation xsi:nil="true" />
+      <Item>
+        <Amount>207.414944</Amount>
         <PhysicalContent xsi:type="MyObjectBuilder_Ore">
           <SubtypeName>Stone</SubtypeName>
           <MaterialNameString>TritonStone</MaterialNameString>
