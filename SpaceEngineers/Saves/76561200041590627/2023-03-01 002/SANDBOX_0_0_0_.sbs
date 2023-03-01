@@ -10,7 +10,7 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>41612</ActivationTimeMs>
+        <ActivationTimeMs>2691571</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
@@ -347,14 +347,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>132642770867558784</Name>
       <PositionAndOrientation>
-        <Position x="-288333.35024124826" y="-2401629.5536345392" z="384510.66228822584" />
-        <Forward x="0.053747952" y="-0.912582636" z="0.405344069" />
-        <Up x="-0.9862617" y="-0.112014294" z="-0.121410131" />
+        <Position x="-288333.33787438751" y="-2401629.5531304865" z="384510.65804852307" />
+        <Forward x="0.08496541" y="-0.914578438" z="0.395381451" />
+        <Up x="-0.985411346" y="-0.135858059" z="-0.102501392" />
         <Orientation>
-          <X>0.6468307</X>
-          <Y>-0.533181131</Y>
-          <Z>-0.370968044</Z>
-          <W>-0.399638146</W>
+          <X>0.6478235</X>
+          <Y>-0.527271748</Y>
+          <Z>-0.385037422</Z>
+          <W>-0.3924989</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -373,14 +373,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>123640739247725106</Name>
       <PositionAndOrientation>
-        <Position x="-288333.10622269358" y="-2401629.6106413752" z="384510.91472963209" />
-        <Forward x="-0.6342068" y="0.749626" z="-0.1893211" />
-        <Up x="0.410639018" y="0.119108468" z="-0.903984845" />
+        <Position x="-288333.11338708282" y="-2401629.6083062678" z="384510.89925946057" />
+        <Forward x="-0.6654222" y="0.6760305" z="-0.3165375" />
+        <Up x="0.443304181" y="0.01671322" z="-0.896215439" />
         <Orientation>
-          <X>0.09548512</X>
-          <Y>-0.6294617</Y>
-          <Z>0.656756</Z>
-          <W>-0.404143721</W>
+          <X>0.128618285</X>
+          <Y>-0.570253134</Y>
+          <Z>0.6892755</Z>
+          <W>-0.427981347</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -399,14 +399,14 @@
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>92835673702525209</Name>
       <PositionAndOrientation>
-        <Position x="-288384.50539261545" y="-2401646.2502898127" z="384533.28289369459" />
-        <Forward x="-0.6577799" y="-0.4135622" z="-0.6295171" />
-        <Up x="0.013712272" y="0.8290653" z="-0.558983564" />
+        <Position x="-288384.504866575" y="-2401646.2547906428" z="384533.28011883557" />
+        <Forward x="-0.6577798" y="-0.413562119" z="-0.6295173" />
+        <Up x="0.0137123615" y="0.8290654" z="-0.558983445" />
         <Orientation>
-          <X>-0.2713406</X>
-          <Y>0.334089369</Y>
+          <X>-0.2713405</X>
+          <Y>0.334089279</Y>
           <Z>-0.1088192</Z>
-          <W>0.896056354</W>
+          <W>0.8960564</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -1904,7 +1904,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.948015451</CurrentStoredPower>
+          <CurrentStoredPower>0.9464598</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -2464,7 +2464,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -2709,14 +2709,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>75145910915155544</Name>
       <PositionAndOrientation>
-        <Position x="-288333.63234574045" y="-2401629.5203093439" z="384510.55535463209" />
-        <Forward x="0.6652825" y="-0.17070803" z="0.7268132" />
-        <Up x="0.623363256" y="0.6627629" z="-0.414925963" />
+        <Position x="-288333.63474938751" y="-2401629.5165093928" z="384510.54379071057" />
+        <Forward x="0.673931062" y="-0.0699135661" z="0.7354785" />
+        <Up x="0.592273831" y="0.6462029" z="-0.481283069" />
         <Orientation>
-          <X>0.404096782</X>
-          <Y>0.836727262</Y>
-          <Z>-0.0729682</Z>
-          <W>-0.3623106</W>
+          <X>0.4023852</X>
+          <Y>0.8401342</Y>
+          <Z>-0.122411855</Z>
+          <W>-0.342455864</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -2961,7 +2961,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
           <ImmediateEffectivities>
-            <float>0.5714111</float>
+            <float>0.5714184</float>
             <float>1</float>
             <float>1</float>
             <float>1</float>
@@ -2986,7 +2986,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>1.05546653</CurrentStoredPower>
+          <CurrentStoredPower>1.08326817</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3189,7 +3189,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -3298,7 +3298,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>50</FramesFromLastTrigger>
                   <TimerTickInFrames>60</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -3775,14 +3775,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>102625513344985233</Name>
       <PositionAndOrientation>
-        <Position x="-288332.9648652717" y="-2401629.6316374689" z="384511.11053041334" />
-        <Forward x="0.969602644" y="-0.2094537" z="0.12648958" />
-        <Up x="0.225968331" y="0.568217635" z="-0.7912439" />
+        <Position x="-288332.9833822" y="-2401629.6356500178" z="384511.10140789807" />
+        <Forward x="0.9720156" y="-0.08098248" z="0.220515311" />
+        <Up x="0.224377334" y="0.5980497" z="-0.769409657" />
         <Orientation>
-          <X>-0.403771967</X>
-          <Y>-0.632623851</Y>
-          <Z>0.229911566</Z>
-          <W>0.6195933</W>
+          <X>-0.3717846</X>
+          <Y>-0.687047243</Y>
+          <Z>0.250502139</Z>
+          <W>0.5718313</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -3801,14 +3801,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>112742937822407265</Name>
       <PositionAndOrientation>
-        <Position x="-288333.1982637092" y="-2401629.4302214533" z="384510.51140931959" />
-        <Forward x="-0.367807418" y="-0.839170933" z="-0.4006362" />
-        <Up x="0.0635227859" y="-0.45250392" z="0.889496565" />
+        <Position x="-288333.196272825" y="-2401629.421294549" z="384510.50472821057" />
+        <Forward x="-0.300499946" y="-0.9212965" z="-0.2468043" />
+        <Up x="0.088252" y="-0.284511417" z="0.954601765" />
         <Orientation>
-          <X>0.176166475</X>
-          <Y>0.518311858</Y>
-          <Z>0.833797157</Z>
-          <W>0.0714177042</W>
+          <X>0.148338437</X>
+          <Y>0.5954776</Y>
+          <Z>0.787560463</Z>
+          <W>0.0561305843</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -3827,14 +3827,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>112781746767678145</Name>
       <PositionAndOrientation>
-        <Position x="-288333.07277542795" y="-2401629.4689177424" z="384510.72088197584" />
-        <Forward x="-0.720231056" y="-0.03218788" z="-0.6929871" />
-        <Up x="0.6146617" y="-0.49275738" z="-0.6159389" />
+        <Position x="-288333.06846520782" y="-2401629.4613336115" z="384510.71224774182" />
+        <Forward x="-0.660042" y="0.1811853" z="-0.7290517" />
+        <Up x="0.6047916" y="-0.447506726" z="-0.6587595" />
         <Orientation>
-          <X>0.345731676</X>
-          <Y>-0.184325948</Y>
-          <Z>0.791737556</Z>
-          <W>-0.468663216</W>
+          <X>0.261171371</X>
+          <Y>-0.259352356</Y>
+          <Z>0.8096561</Z>
+          <W>-0.457146436</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -3853,14 +3853,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>130117410034235430</Name>
       <PositionAndOrientation>
-        <Position x="-288333.42153031076" y="-2401629.4911345392" z="384510.43914369459" />
-        <Forward x="-0.6340827" y="0.7246947" z="-0.2697342" />
-        <Up x="0.772852659" y="0.6053297" z="-0.190459132" />
+        <Position x="-288333.41856286407" y="-2401629.4906304865" z="384510.43832196057" />
+        <Forward x="-0.6207369" y="0.7346501" z="-0.2738154" />
+        <Up x="0.7839804" y="0.5850794" z="-0.207501233" />
         <Orientation>
-          <X>0.193771467</X>
-          <Y>0.5723508</Y>
-          <Z>-0.399734646</Z>
-          <W>0.68926</W>
+          <X>0.1929172</X>
+          <Y>0.570854843</Y>
+          <Z>-0.412605464</Z>
+          <W>0.6831284</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -3879,14 +3879,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>115585607345326007</Name>
       <PositionAndOrientation>
-        <Position x="-288966.58583695139" y="-2400753.35087575" z="382754.59099916334" />
-        <Forward x="0.246163577" y="0.8815733" z="-0.402780384" />
-        <Up x="0.8078488" y="-0.4162324" z="-0.4172903" />
+        <Position x="-288966.58238122344" y="-2400753.3500054865" z="382754.59310711682" />
+        <Forward x="0.264720261" y="0.880991638" z="-0.392143875" />
+        <Up x="0.787608743" y="-0.432161629" z="-0.439213574" />
         <Orientation>
-          <X>-0.345662326</X>
-          <Y>-0.423234433</Y>
-          <Z>0.767224669</Z>
-          <W>-0.335792333</W>
+          <X>-0.3477085</X>
+          <Y>-0.4278164</Y>
+          <Z>0.7714789</Z>
+          <W>-0.3176354</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -3905,14 +3905,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>77045242279961945</Name>
       <PositionAndOrientation>
-        <Position x="-288966.69118363108" y="-2400753.4644011408" z="382754.78435853834" />
-        <Forward x="-0.4890836" y="0.452836633" z="-0.74547714" />
-        <Up x="-0.5120238" y="0.5428624" z="0.6656816" />
+        <Position x="-288966.69071862579" y="-2400753.462310174" z="382754.78402508557" />
+        <Forward x="-0.488405168" y="0.458106428" z="-0.742697" />
+        <Up x="-0.5065828" y="0.544158459" z="0.668779" />
         <Orientation>
-          <X>0.32318607</X>
-          <Y>0.151037</Y>
-          <Z>0.352306038</Z>
-          <W>0.865227759</W>
+          <X>0.325446367</X>
+          <Y>0.150785118</Y>
+          <Z>0.349292725</Z>
+          <W>0.865646064</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -3931,14 +3931,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>122483482514676004</Name>
       <PositionAndOrientation>
-        <Position x="-288968.98085648264" y="-2400753.2778777033" z="382753.82586244459" />
-        <Forward x="0.732066453" y="-0.268890917" z="0.6259203" />
-        <Up x="-0.4558139" y="-0.876169741" z="0.1567164" />
+        <Position x="-288968.980635618" y="-2400753.276763299" z="382753.82406414807" />
+        <Forward x="0.728635848" y="-0.2438483" z="0.640021563" />
+        <Up x="-0.4592026" y="-0.8672551" z="0.192357212" />
         <Orientation>
-          <X>0.867231667</X>
-          <Y>-0.246717244</Y>
-          <Z>-0.4312704</Z>
-          <W>-0.03233695</W>
+          <X>0.868250132</X>
+          <Y>-0.257201433</Y>
+          <Z>-0.4239922</Z>
+          <W>-0.0148261022</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -4149,7 +4149,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.997301</CurrentStoredPower>
+          <CurrentStoredPower>2.99666333</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -4274,7 +4274,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99730039</CurrentStoredPower>
+          <CurrentStoredPower>2.99666262</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -4328,7 +4328,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99729943</CurrentStoredPower>
+          <CurrentStoredPower>2.996662</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -4454,7 +4454,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>4</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99729848</CurrentStoredPower>
+          <CurrentStoredPower>2.996661</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -4502,7 +4502,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>5</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99729776</CurrentStoredPower>
+          <CurrentStoredPower>2.99666047</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -4660,7 +4660,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>6</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99729681</CurrentStoredPower>
+          <CurrentStoredPower>2.99665952</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -6211,7 +6211,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>60</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -11195,7 +11195,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <SlotsGamepad />
           </Toolbar>
           <Delay>29000</Delay>
-          <CurrentTime>14724</CurrentTime>
+          <CurrentTime>6092</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -14559,7 +14559,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>70</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -15035,7 +15035,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>20</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>10</FramesFromLastTrigger>
                   <TimerTickInFrames>80</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -16013,7 +16013,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>5</CurrentShownTexture>
+          <CurrentShownTexture>0</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -17222,14 +17222,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>140670839293712461</Name>
       <PositionAndOrientation>
-        <Position x="-288876.03096634592" y="-2400625.0806120783" z="382648.95574525709" />
-        <Forward x="0.728397846" y="-0.00981909" z="0.6850835" />
-        <Up x="-0.685023963" y="-0.0299219489" z="0.7279055" />
+        <Position x="-288876.03092858673" y="-2400625.0848687678" z="382648.96127117932" />
+        <Forward x="0.7502979" y="-0.0416411161" z="0.6597869" />
+        <Up x="-0.6606762" y="-0.0829486847" z="0.7460739" />
         <Orientation>
-          <X>0.657335043</X>
-          <Y>-0.6406657</Y>
-          <Z>-0.287874341</Z>
-          <W>0.273105264</W>
+          <X>0.6645293</X>
+          <Y>-0.623132646</Y>
+          <Z>-0.3160303</Z>
+          <W>0.265012</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17248,14 +17248,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>100943403662858351</Name>
       <PositionAndOrientation>
-        <Position x="-288876.61098343576" y="-2400625.4011687189" z="382649.52801088209" />
-        <Forward x="0.8635849" y="-0.1333808" z="0.4862417" />
-        <Up x="0.217514068" y="0.968574941" z="-0.120624304" />
+        <Position x="-288876.61210534454" y="-2400625.3973687678" z="382649.51840008557" />
+        <Forward x="0.867276" y="-0.108952954" z="0.4857577" />
+        <Up x="0.2125563" y="0.9633871" z="-0.163417026" />
         <Orientation>
-          <X>-0.125293851</X>
-          <Y>-0.8528905</Y>
-          <Z>-0.00373919122</Z>
-          <W>0.5068187</W>
+          <X>-0.134352788</X>
+          <Y>-0.8513684</Y>
+          <Z>0.0159930848</Z>
+          <W>0.5068188</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17274,14 +17274,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>81699423459897233</Name>
       <PositionAndOrientation>
-        <Position x="-288876.03114945139" y="-2400625.4282683283" z="382649.45574525709" />
-        <Forward x="0.325554848" y="-0.909975946" z="0.256821841" />
-        <Up x="-0.4675916" y="-0.3910246" z="-0.792753041" />
+        <Position x="-288876.03105065704" y="-2400625.4344781428" z="382649.46420086682" />
+        <Forward x="0.3075249" y="-0.9204824" z="0.241122931" />
+        <Up x="-0.46402365" y="-0.366301239" z="-0.806538939" />
         <Orientation>
-          <X>-0.7857571</X>
-          <Y>0.104865357</Y>
-          <Z>0.2794605</Z>
-          <W>0.541748</W>
+          <X>-0.780729353</X>
+          <Y>0.104991458</Y>
+          <Z>0.271316022</Z>
+          <W>0.5530155</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17300,14 +17300,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>137042701290727245</Name>
       <PositionAndOrientation>
-        <Position x="-288876.25923783029" y="-2400625.4670866877" z="382649.50847963209" />
-        <Forward x="0.109455965" y="0.7498964" z="-0.6524375" />
-        <Up x="0.521751" y="0.515341163" z="0.6798525" />
+        <Position x="-288876.26200768829" y="-2400625.4671929865" z="382649.50863446057" />
+        <Forward x="0.143254727" y="0.725682259" z="-0.6729512" />
+        <Up x="0.5115399" y="0.5278001" z="0.6780516" />
         <Orientation>
-          <X>0.4117852</X>
-          <Y>0.06491683</Y>
-          <Z>-0.269745022</Z>
-          <W>0.8680187</W>
+          <X>0.402020663</X>
+          <Y>0.043632336</Y>
+          <Z>-0.272909045</Z>
+          <W>0.872924</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17326,14 +17326,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>97636240289938892</Name>
       <PositionAndOrientation>
-        <Position x="-288876.38704544748" y="-2400625.2100066096" z="382649.12176088209" />
-        <Forward x="0.9097736" y="-0.407403916" z="-0.07958633" />
-        <Up x="0.0528883934" y="-0.0763995647" z="0.995673537" />
+        <Position x="-288876.37077233673" y="-2400625.2069390803" z="382649.11849774182" />
+        <Forward x="0.852056146" y="-0.500943542" z="-0.151841581" />
+        <Up x="0.109120548" y="-0.11371927" z="0.9875021" />
         <Orientation>
-          <X>-0.3824564</X>
-          <Y>0.5602981</Y>
-          <Z>0.626040637</Z>
-          <W>-0.384533823</W>
+          <X>-0.3353832</X>
+          <Y>0.558209</Y>
+          <Z>0.6666167</Z>
+          <W>-0.3626886</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17352,14 +17352,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>114008708673265271</Name>
       <PositionAndOrientation>
-        <Position x="-288876.36281449045" y="-2400625.3494109064" z="382649.32439760084" />
-        <Forward x="-0.006126553" y="-0.601991057" z="0.7984792" />
-        <Up x="0.622997" y="-0.626891851" z="-0.467847466" />
+        <Position x="-288876.35752770782" y="-2400625.3465875178" z="382649.32113446057" />
+        <Forward x="-0.06792046" y="-0.6178279" z="0.7833739" />
+        <Up x="0.6435695" y="-0.6271183" z="-0.4387939" />
         <Orientation>
-          <X>0.8954847</X>
-          <Y>0.312004477</Y>
-          <Z>0.107485339</Z>
-          <W>-0.298675835</W>
+          <X>0.890626252</X>
+          <Y>0.313802421</Y>
+          <Z>0.142632857</Z>
+          <W>-0.2965953</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17378,14 +17378,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>113435105569569944</Name>
       <PositionAndOrientation>
-        <Position x="-288876.01668411936" y="-2400625.5188445" z="382649.67986635084" />
-        <Forward x="0.15899387" y="0.482234955" z="-0.8614931" />
-        <Up x="-0.8911195" y="-0.3055354" z="-0.335490227" />
+        <Position x="-288876.02397057891" y="-2400625.524810174" z="382649.68881024182" />
+        <Forward x="0.1564222" y="0.541956544" z="-0.825720966" />
+        <Up x="-0.86353457" y="-0.3307512" z="-0.3806721" />
         <Orientation>
-          <X>0.06899376</X>
-          <Y>-0.2539553</Y>
-          <Z>0.8049892</Z>
-          <W>0.531732</W>
+          <X>0.08002234</X>
+          <Y>-0.284140646</Y>
+          <Z>0.8117709</Z>
+          <W>0.5038734</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17404,14 +17404,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>110395943287251602</Name>
       <PositionAndOrientation>
-        <Position x="-288876.08974320139" y="-2400625.1885222346" z="382649.25164369459" />
-        <Forward x="0.588911235" y="0.35482657" z="-0.7261416" />
-        <Up x="-0.7746084" y="-0.0085224025" z="-0.632383347" />
+        <Position x="-288876.07786462188" y="-2400625.192778924" z="382649.25912274182" />
+        <Forward x="0.5952561" y="0.361875653" z="-0.717437148" />
+        <Up x="-0.7808534" y="0.0498652" z="-0.622720659" />
         <Orientation>
-          <X>-0.113804609</X>
-          <Y>-0.3521047</Y>
-          <Z>0.700934947</Z>
-          <W>0.6097221</W>
+          <X>-0.103833176</X>
+          <Y>-0.361247957</Y>
+          <Z>0.681385458</Z>
+          <W>0.6280386</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17430,14 +17430,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>89475274216413450</Name>
       <PositionAndOrientation>
-        <Position x="-288876.25478226389" y="-2400625.5552214533" z="382649.73406556959" />
-        <Forward x="0.785595655" y="-0.5781428" z="0.220431834" />
-        <Up x="-0.03518763" y="-0.397427917" z="-0.9169584" />
+        <Position x="-288876.26481530548" y="-2400625.5555718928" z="382649.73422039807" />
+        <Forward x="0.715253055" y="-0.6383101" z="0.284557551" />
+        <Up x="-0.03112027" y="-0.435857177" z="-0.8994775" />
         <Orientation>
-          <X>0.7475959</X>
-          <Y>0.226530969</Y>
-          <Z>-0.37391752</Z>
-          <W>-0.499969721</W>
+          <X>0.777590334</X>
+          <Y>0.193989813</Y>
+          <Z>-0.3365737</Z>
+          <W>-0.4944081</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17456,14 +17456,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>118748111614175214</Name>
       <PositionAndOrientation>
-        <Position x="-288050.81923538889" y="-2401750.1506804377" z="384775.95281556959" />
-        <Forward x="-0.389206141" y="0.844265938" z="0.368419826" />
-        <Up x="0.545427442" y="-0.111085951" z="0.8307637" />
+        <Position x="-288050.81870934844" y="-2401750.1551812678" z="384775.95004071057" />
+        <Forward x="-0.3892063" y="0.8442662" z="0.368418932" />
+        <Up x="0.5454271" y="-0.111085236" z="0.830764055" />
         <Orientation>
-          <X>0.7452882</X>
-          <Y>0.3588251</Y>
-          <Z>-0.009407248</Z>
-          <W>0.561873257</W>
+          <X>0.745288</X>
+          <Y>0.358825</Y>
+          <Z>-0.009407229</Z>
+          <W>0.5618736</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17482,14 +17482,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>111750417993368900</Name>
       <PositionAndOrientation>
-        <Position x="-288018.0156465217" y="-2401821.9139861017" z="384900.85515931959" />
-        <Forward x="-0.3658247" y="-0.5272425" z="0.76693356" />
-        <Up x="-0.8454958" y="0.5326923" z="-0.03708969" />
+        <Position x="-288018.01573083282" y="-2401821.911528924" z="384900.85287274182" />
+        <Forward x="-0.366020828" y="-0.5232315" z="0.7695825" />
+        <Up x="-0.8465153" y="0.5307225" z="-0.0417779237" />
         <Orientation>
-          <X>-0.4596893</X>
-          <Y>0.819849133</Y>
-          <Z>0.149464384</Z>
-          <W>0.306909621</W>
+          <X>-0.46159637</X>
+          <Y>0.8195853</Y>
+          <Z>0.146858931</Z>
+          <W>0.3060084</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17508,14 +17508,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>79366212408605170</Name>
       <PositionAndOrientation>
-        <Position x="-288020.99208695139" y="-2401821.4853972346" z="384899.35125306959" />
-        <Forward x="-0.05520075" y="0.619611859" z="-0.7829649" />
-        <Up x="0.0586273745" y="-0.780796" z="-0.622029066" />
+        <Position x="-288020.99204919219" y="-2401821.4847711115" z="384899.34994305432" />
+        <Forward x="-0.0560576059" y="0.6265539" z="-0.7773594" />
+        <Up x="0.05322975" y="-0.775600731" z="-0.628975153" />
         <Orientation>
-          <X>0.0164221711</X>
-          <Y>-0.329010427</Y>
-          <Z>0.9434662</Z>
-          <W>-0.03679704</W>
+          <X>0.017563656</X>
+          <Y>-0.333184332</Y>
+          <Z>0.9420679</Z>
+          <W>-0.0344633535</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17534,14 +17534,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>103136480925546403</Name>
       <PositionAndOrientation>
-        <Position x="-288017.02492386545" y="-2401820.5294646174" z="384898.38592103834" />
-        <Forward x="-0.814448" y="0.429717" z="0.389894217" />
-        <Up x="-0.545870662" y="-0.7952662" z="-0.263773561" />
+        <Position x="-288017.02598473907" y="-2401820.5292047053" z="384898.38509930432" />
+        <Forward x="-0.817253053" y="0.4193437" z="0.395281732" />
+        <Up x="-0.5412831" y="-0.793968558" z="-0.276813626" />
         <Orientation>
-          <X>0.7716674</X>
-          <Y>-0.315399</Y>
-          <Z>0.549693167</Z>
-          <W>0.05376132</W>
+          <X>0.7724979</X>
+          <Y>-0.317628562</Y>
+          <Z>0.5479338</Z>
+          <W>0.0461263545</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17560,14 +17560,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>120142690102866313</Name>
       <PositionAndOrientation>
-        <Position x="-288031.74086624826" y="-2401772.3009489924" z="384763.45037416334" />
-        <Forward x="0.3558454" y="0.6380478" z="0.6828386" />
-        <Up x="-0.6434995" y="-0.362568557" z="0.674130559" />
+        <Position x="-288031.74070641876" y="-2401772.3006890803" z="384763.44955242932" />
+        <Forward x="0.319007218" y="0.6007118" z="0.733061433" />
+        <Up x="-0.644935846" y="-0.429176271" z="0.6323488" />
         <Orientation>
-          <X>0.825092554</X>
-          <Y>-0.400801241</Y>
-          <Z>-0.0225066431</Z>
-          <W>0.3975853</W>
+          <X>0.84509027</X>
+          <Y>-0.3903245</Y>
+          <Z>-0.020263195</Z>
+          <W>0.364771932</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17586,14 +17586,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>141494911206906016</Name>
       <PositionAndOrientation>
-        <Position x="-288028.13930374826" y="-2401750.5913542658" z="384748.39959291334" />
-        <Forward x="-0.134426132" y="0.47527945" z="-0.8695051" />
-        <Up x="0.815481842" y="-0.445441" z="-0.3695562" />
+        <Position x="-288028.14585778594" y="-2401750.5907281428" z="384748.39974774182" />
+        <Forward x="-0.120901927" y="0.435489774" z="-0.892037749" />
+        <Up x="0.851961553" y="-0.415671349" z="-0.318399727" />
         <Orientation>
-          <X>-0.056965448</X>
-          <Y>-0.249002814</Y>
-          <Z>0.848219</Z>
-          <W>-0.463979661</W>
+          <X>-0.0595383532</X>
+          <Y>-0.224580258</Y>
+          <Z>0.839220464</Z>
+          <W>-0.49165833</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17612,14 +17612,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>92190925445320696</Name>
       <PositionAndOrientation>
-        <Position x="-288019.0195527717" y="-2401822.6023405939" z="384901.34539369459" />
-        <Forward x="-0.543011963" y="-0.206577644" z="0.8139187" />
-        <Up x="0.5151536" y="0.683490634" z="0.51716274" />
+        <Position x="-288019.01963708282" y="-2401822.6024468928" z="384901.34506024182" />
+        <Forward x="-0.5443361" y="-0.198482856" z="0.8150474" />
+        <Up x="0.5133152" y="0.68965435" z="0.510768354" />
         <Orientation>
-          <X>0.341792315</X>
-          <Y>0.8888967</Y>
-          <Z>0.2035502</Z>
-          <W>0.22717385</W>
+          <X>0.339821041</X>
+          <Y>0.889969349</Y>
+          <Z>0.199234784</Z>
+          <W>0.229742691</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17638,14 +17638,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>85859653872861797</Name>
       <PositionAndOrientation>
-        <Position x="-288021.03786331858" y="-2401821.6418913752" z="384899.72039369459" />
-        <Forward x="-0.53763473" y="0.800793" z="0.26396817" />
-        <Up x="0.175922766" y="0.4127086" z="-0.8937128" />
+        <Position x="-288021.03465173126" y="-2401821.6415093928" z="384899.71908367932" />
+        <Forward x="-0.5234206" y="0.805433333" z="0.2780434" />
+        <Up x="0.173336864" y="0.420140624" z="-0.890750349" />
         <Orientation>
-          <X>-0.08160677</X>
-          <Y>0.7907746</Y>
-          <Z>-0.5357108</Z>
-          <W>0.284657329</W>
+          <X>-0.07688528</X>
+          <Y>0.7956823</Y>
+          <Z>-0.5329337</Z>
+          <W>0.277416646</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17664,14 +17664,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>114857850697292743</Name>
       <PositionAndOrientation>
-        <Position x="-288018.015768592" y="-2401822.0397185236" z="384901.06609681959" />
-        <Forward x="0.30918467" y="0.4120804" z="0.8570851" />
-        <Up x="0.4592073" y="0.7245226" z="-0.5139997" />
+        <Position x="-288018.01573083282" y="-2401822.0389703303" z="384901.06478680432" />
+        <Forward x="0.3091045" y="0.401921123" z="0.8619243" />
+        <Up x="0.4572072" y="0.731901169" z="-0.5052546" />
         <Orientation>
-          <X>0.273758918</X>
-          <Y>0.923903942</Y>
-          <Z>-0.2505888</Z>
-          <W>-0.09307395</W>
+          <X>0.2720787</X>
+          <Y>0.925708055</Y>
+          <Z>-0.244995147</Z>
+          <W>-0.09494821</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17690,14 +17690,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>139034495880900354</Name>
       <PositionAndOrientation>
-        <Position x="-288032.0195527717" y="-2401772.0917204767" z="384763.09978822584" />
-        <Forward x="-0.265063882" y="-0.9570266" z="-0.117647856" />
-        <Up x="0.349614054" y="0.0183196664" z="-0.93671453" />
+        <Position x="-288032.01975915313" y="-2401772.091216424" z="384763.09896649182" />
+        <Forward x="-0.246409312" y="-0.9555177" z="-0.16207464" />
+        <Up x="0.3648462" y="0.0634733438" z="-0.9289016" />
         <Orientation>
-          <X>-0.6638239</X>
-          <Y>-0.0226692259</Y>
-          <Z>-0.224004447</Z>
-          <W>0.7131942</W>
+          <X>-0.646591365</X>
+          <Y>-0.0297034029</Y>
+          <Z>-0.2240155</Z>
+          <W>0.7285975</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17716,14 +17716,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>132552636147766554</Name>
       <PositionAndOrientation>
-        <Position x="-288021.29042679514" y="-2401821.601974383" z="384899.34002260084" />
-        <Forward x="0.8250277" y="0.0813429654" z="-0.559207" />
-        <Up x="-0.338901162" y="-0.720646858" z="-0.604825258" />
+        <Position x="-288021.290022825" y="-2401821.6019586115" z="384899.33968914807" />
+        <Forward x="0.823882163" y="0.08517861" z="-0.5603236" />
+        <Up x="-0.3373904" y="-0.7206695" z="-0.605642259" />
         <Orientation>
-          <X>-0.421085149</X>
-          <Y>-0.2075663</Y>
-          <Z>0.8264447</Z>
-          <W>0.310793638</W>
+          <X>-0.41980654</X>
+          <Y>-0.208807752</Y>
+          <Z>0.827101767</Z>
+          <W>0.3099427</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17742,14 +17742,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>105695039378730327</Name>
       <PositionAndOrientation>
-        <Position x="-288031.88075882639" y="-2401772.1931609064" z="384763.27801088209" />
-        <Forward x="0.124645054" y="-0.9618702" z="-0.243453085" />
-        <Up x="0.387541473" y="-0.17867969" z="0.90437007" />
+        <Position x="-288031.88084313751" y="-2401772.192778924" z="384763.27767742932" />
+        <Forward x="0.139792234" y="-0.958509266" z="-0.248430967" />
+        <Up x="0.376497746" y="-0.1805967" z="0.908644" />
         <Orientation>
-          <X>0.0738915056</X>
-          <Y>0.610584557</Y>
-          <Z>0.7641203</Z>
-          <W>-0.1945423</W>
+          <X>0.06394572</X>
+          <Y>0.6096683</Y>
+          <Z>0.7656431</Z>
+          <W>-0.19495146</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17768,14 +17768,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>105359361114402493</Name>
       <PositionAndOrientation>
-        <Position x="-288031.51161820139" y="-2401772.3448943049" z="384763.53094056959" />
-        <Forward x="-0.877952337" y="0.213988811" z="-0.428261876" />
-        <Up x="0.450660944" y="0.671292365" z="-0.588448048" />
+        <Position x="-288031.51170251251" y="-2401772.3446343928" z="384763.53109539807" />
+        <Forward x="-0.8801734" y="0.232732013" z="-0.413679" />
+        <Up x="0.449493945" y="0.688669443" z="-0.5689371" />
         <Orientation>
-          <X>-0.124512382</X>
-          <Y>0.519967</Y>
-          <Z>-0.385811448</Z>
-          <W>0.7518514</W>
+          <X>-0.111948334</X>
+          <Y>0.5297434</Y>
+          <Z>-0.378329</Z>
+          <W>0.750804</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17794,14 +17794,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>89756156968449833</Name>
       <PositionAndOrientation>
-        <Position x="-288027.6523652717" y="-2401750.56559743" z="384748.43474916334" />
-        <Forward x="-0.5533157" y="-0.827868462" z="0.0920623541" />
-        <Up x="-0.7783141" y="0.474464983" z="-0.411230057" />
+        <Position x="-288027.65952966094" y="-2401750.5672906428" z="384748.43636883557" />
+        <Forward x="-0.5311366" y="-0.8458102" z="0.0499871373" />
+        <Up x="-0.7697755" y="0.457055777" z="-0.445584536" />
         <Orientation>
-          <X>-0.4781112</X>
-          <Y>0.563418865</Y>
-          <Z>0.184870631</Z>
-          <W>0.647913337</W>
+          <X>-0.4865605</X>
+          <Y>0.53689146</Y>
+          <Z>0.1863625</Z>
+          <W>0.663532555</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17820,14 +17820,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>128191059823170444</Name>
       <PositionAndOrientation>
-        <Position x="-288027.51393753733" y="-2401750.5835417658" z="384748.63299135084" />
-        <Forward x="0.76286453" y="0.534397244" z="0.36394614" />
-        <Up x="-0.46513027" y="0.844588161" z="-0.26518774" />
+        <Position x="-288027.52012536407" y="-2401750.5848687678" z="384748.63363446057" />
+        <Forward x="0.7509172" y="0.5826036" z="0.310959458" />
+        <Up x="-0.5168499" y="0.8115727" z="-0.27242595" />
         <Orientation>
-          <X>0.1325309</X>
-          <Y>-0.81511265</Y>
-          <Z>0.245237619</Z>
-          <W>0.5078242</W>
+          <X>0.1485802</X>
+          <Y>-0.7958666</Y>
+          <Z>0.2685845</Z>
+          <W>0.521902859</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17846,14 +17846,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>113261495498177369</Name>
       <PositionAndOrientation>
-        <Position x="-288388.15553909983" y="-2401646.7822722346" z="384533.59929994459" />
-        <Forward x="0.389878839" y="0.3410571" z="-0.8553797" />
-        <Up x="-0.915150642" y="0.0401719473" z="-0.401104957" />
+        <Position x="-288388.15501305938" y="-2401646.7860406428" z="384533.59554852307" />
+        <Forward x="0.38989684" y="0.340892464" z="-0.85543716" />
+        <Up x="-0.915155947" y="0.0402202867" z="-0.401088148" />
         <Orientation>
-          <X>-0.0224214327</X>
-          <Y>-0.267969042</Y>
-          <Z>0.6923953</Z>
-          <W>0.669536054</W>
+          <X>-0.0224752389</X>
+          <Y>-0.267910928</Y>
+          <Z>0.692376137</Z>
+          <W>0.66957736</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17876,14 +17876,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>135804579222591182</Name>
       <PositionAndOrientation>
-        <Position x="-288028.00514847483" y="-2401750.6792448908" z="384748.59588197584" />
-        <Forward x="0.0256387629" y="0.221992135" z="-0.974711359" />
-        <Up x="-0.3219614" y="-0.9212449" z="-0.218284011" />
+        <Position x="-288028.00498864532" y="-2401750.683013299" z="384748.60677899182" />
+        <Forward x="-0.0281603485" y="0.339174151" z="-0.940302" />
+        <Up x="-0.327601045" y="-0.8918537" z="-0.311887562" />
         <Orientation>
-          <X>0.005666421</X>
-          <Y>-0.112304196</Y>
-          <Z>0.980097234</Z>
-          <W>0.1636005</W>
+          <X>0.0422956124</X>
+          <Y>-0.167511418</Y>
+          <Z>0.9716677</Z>
+          <W>0.161285162</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17902,14 +17902,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>98629403146715713</Name>
       <PositionAndOrientation>
-        <Position x="-288390.5390840217" y="-2401655.0124968439" z="384547.15008119459" />
-        <Forward x="0.552376449" y="0.466205329" z="-0.691037536" />
-        <Up x="-0.103023738" y="0.8608098" z="0.498390049" />
+        <Position x="-288390.53880212188" y="-2401655.015044549" z="384547.14877117932" />
+        <Forward x="0.552379549" y="0.466177881" z="-0.6910535" />
+        <Up x="-0.103048727" y="0.8608352" z="0.498341024" />
         <Orientation>
-          <X>0.262372166</X>
-          <Y>-0.292646646</Y>
-          <Z>-0.0274945144</Z>
-          <W>0.9191098</W>
+          <X>0.26235</X>
+          <Y>-0.2926529</Y>
+          <Z>-0.0274754837</Z>
+          <W>0.9191147</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -17928,14 +17928,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>135296356127215653</Name>
       <PositionAndOrientation>
-        <Position x="-289739.92410056992" y="-2391399.2261951691" z="390222.69947063248" />
-        <Forward x="-0.690433" y="0.288637817" z="-0.66331774" />
-        <Up x="-0.108950734" y="0.864999056" z="0.48980242" />
+        <Position x="-285747.1078183612" y="-2366012.7585612438" z="393412.059269153" />
+        <Forward x="0.748453736" y="-0.214890778" z="-0.6274064" />
+        <Up x="0.6047013" y="-0.167323276" z="0.778677642" />
         <Orientation>
-          <X>0.216118</X>
-          <Y>0.348760873</Y>
-          <Z>0.14419952</Z>
-          <W>0.9004806</W>
+          <X>0.258653462</X>
+          <Y>-0.345536023</Y>
+          <Z>-0.718860269</Z>
+          <W>0.5449249</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18008,7 +18008,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
                   <Amount>1</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
                     <SubtypeName>HydrogenBottle</SubtypeName>
-                    <GasLevel>0.90308553</GasLevel>
+                    <GasLevel>0.7143484</GasLevel>
                   </PhysicalContent>
                   <ItemId>17</ItemId>
                 </MyObjectBuilder_InventoryItem>
@@ -18076,7 +18076,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <Amount>1</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
               <SubtypeName>HydrogenBottle</SubtypeName>
-              <GasLevel>0.90308553</GasLevel>
+              <GasLevel>0.7143484</GasLevel>
             </PhysicalContent>
             <ItemId>17</ItemId>
           </MyObjectBuilder_InventoryItem>
@@ -18104,14 +18104,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         <PersistentFlags>CastShadows InScene</PersistentFlags>
         <Name>141324806989171925</Name>
         <PositionAndOrientation>
-          <Position x="-289740.08960541687" y="-2391397.8295278163" z="390223.10632007732" />
-          <Forward x="-0.8152486" y="0.4202903" z="-0.398447931" />
-          <Up x="-0.009622227" y="0.6780613" z="0.734928846" />
+          <Position x="-285746.12195227831" y="-2366013.2663019723" z="393413.01394681755" />
+          <Forward x="0.915011346" y="-0.06873339" z="-0.397573531" />
+          <Up x="0.4007533" y="0.04095104" z="0.9152594" />
           <Orientation>
-            <X>0.3544505</X>
-            <Y>0.418502539</Y>
-            <Z>0.187962845</Z>
-            <W>0.8147947</W>
+            <X>0.358766854</X>
+            <Y>-0.4153348</Y>
+            <Z>-0.5922927</Z>
+            <W>0.589892</W>
           </Orientation>
         </PositionAndOrientation>
         <LocalPositionAndOrientation xsi:nil="true" />
@@ -18127,14 +18127,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         </ComponentContainer>
       </HandWeapon>
       <Battery>
-        <CurrentCapacity>8.808066E-06</CurrentCapacity>
+        <CurrentCapacity>5.72477E-06</CurrentCapacity>
         <RegenEffects />
       </Battery>
       <LightEnabled>true</LightEnabled>
       <DampenersEnabled>false</DampenersEnabled>
       <UsingLadder xsi:nil="true" />
       <HeadAngle x="0" y="0" />
-      <LinearVelocity x="-12.3847351" y="95.22794" z="53.1262474" />
+      <LinearVelocity x="19.73979" y="8.905712" z="-16.9715919" />
       <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
       <JetpackEnabled>true</JetpackEnabled>
       <ColorMaskHSV x="0" y="-0.96" z="-0.5" />
@@ -18142,16 +18142,16 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <DisplayName>tuttop</DisplayName>
       <IsInFirstPersonView>true</IsInFirstPersonView>
       <EnableBroadcasting>true</EnableBroadcasting>
-      <OxygenLevel>0.945921361</OxygenLevel>
+      <OxygenLevel>0.757018745</OxygenLevel>
       <EnvironmentOxygenLevel>0</EnvironmentOxygenLevel>
       <StoredGases>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-          <FillLevel>0.2617474</FillLevel>
+          <FillLevel>0.438916773</FillLevel>
         </StoredGas>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-          <FillLevel>0.945921361</FillLevel>
+          <FillLevel>0.757018745</FillLevel>
         </StoredGas>
       </StoredGases>
       <MovementState>Flying</MovementState>
@@ -18173,14 +18173,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>140078662081373568</Name>
       <PositionAndOrientation>
-        <Position x="-288388.0576387092" y="-2401647.2639616877" z="384533.36980775709" />
-        <Forward x="0.404938579" y="0.49365893" z="-0.7696269" />
-        <Up x="-0.10278143" y="0.860967" z="0.4981685" />
+        <Position x="-288388.05711266876" y="-2401647.2684625178" z="384533.36703289807" />
+        <Forward x="0.4049385" y="0.493658721" z="-0.7696271" />
+        <Up x="-0.102781348" y="0.8609671" z="0.4981683" />
         <Orientation>
-          <X>0.263607085</X>
-          <Y>-0.213770539</Y>
-          <Z>-0.005273821</Z>
-          <W>0.940630436</W>
+          <X>0.263606966</X>
+          <Y>-0.213770464</Y>
+          <Z>-0.00527382037</Z>
+          <W>0.9406305</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18199,14 +18199,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>101483018587076100</Name>
       <PositionAndOrientation>
-        <Position x="-288027.33913284983" y="-2401750.5122527033" z="384748.47332338209" />
-        <Forward x="-0.305811733" y="0.9085131" z="0.284750342" />
-        <Up x="0.648145854" y="0.417732775" z="-0.6367151" />
+        <Position x="-288027.34739587188" y="-2401750.515044549" z="384748.47201336682" />
+        <Forward x="-0.3558808" y="0.9013735" z="0.246727824" />
+        <Up x="0.6585542" y="0.429208368" z="-0.6181314" />
         <Orientation>
-          <X>0.205915064</X>
-          <Y>0.77458</Y>
-          <Z>-0.498731077</Z>
-          <W>0.329988033</W>
+          <X>0.1965035</X>
+          <Y>0.7646897</Y>
+          <Z>-0.496771783</Z>
+          <W>0.360352457</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18225,14 +18225,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>92392938920667379</Name>
       <PositionAndOrientation>
-        <Position x="-288027.236471717" y="-2401750.5602263361" z="384748.68767885084" />
-        <Forward x="-0.9364596" y="0.295341522" z="0.18925333" />
-        <Up x="-0.346219629" y="-0.691554844" z="-0.6339431" />
+        <Position x="-288027.23826501251" y="-2401750.559966424" z="384748.68295086682" />
+        <Forward x="-0.9353312" y="0.2972796" z="0.191781074" />
+        <Up x="-0.34814164" y="-0.677120864" z="-0.648308754" />
         <Orientation>
-          <X>0.6753624</X>
-          <Y>-0.3721724</Y>
-          <Z>0.624229968</Z>
-          <W>-0.1253407</W>
+          <X>0.6719435</X>
+          <Y>-0.379977</Y>
+          <Z>0.62213546</Z>
+          <W>-0.130602241</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18251,14 +18251,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>80705725810228753</Name>
       <PositionAndOrientation>
-        <Position x="-288027.89284378733" y="-2401750.5712126642" z="384748.40398744459" />
-        <Forward x="-0.807001531" y="-0.447055817" z="0.385861337" />
-        <Up x="0.5550014" y="-0.3508696" z="0.754230261" />
+        <Position x="-288027.89903161407" y="-2401750.5877984553" z="384748.40609539807" />
+        <Forward x="-0.8269258" y="-0.351885617" z="0.438599467" />
+        <Up x="0.549788535" y="-0.342262864" z="0.7619633" />
         <Orientation>
-          <X>0.6194625</X>
-          <Y>0.556054831</Y>
-          <Z>0.54009366</Z>
-          <W>0.123968244</W>
+          <X>0.6447587</X>
+          <Y>0.5509864</Y>
+          <Z>0.505388737</Z>
+          <W>0.1590044</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18277,14 +18277,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>73590316462475500</Name>
       <PositionAndOrientation>
-        <Position x="-288387.38735062326" y="-2401655.1414030939" z="384548.04363588209" />
-        <Forward x="-0.0559336245" y="-0.9866878" z="-0.152703941" />
-        <Up x="0.7473856" y="0.06003523" z="-0.661672235" />
+        <Position x="-288387.38682458282" y="-2401655.145903924" z="384548.04086102307" />
+        <Forward x="-0.0559331775" y="-0.986687541" z="-0.152704984" />
+        <Up x="0.7473853" y="0.06003636" z="-0.661672354" />
         <Orientation>
-          <X>-0.6019328</X>
-          <Y>-0.247638613</Y>
-          <Z>-0.328114718</Z>
-          <W>0.6846114</W>
+          <X>-0.601932466</X>
+          <Y>-0.247638479</Y>
+          <Z>-0.3281146</Z>
+          <W>0.6846118</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18303,14 +18303,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>143676249423189732</Name>
       <PositionAndOrientation>
-        <Position x="-288029.4121308967" y="-2401752.4894255549" z="384754.28142885084" />
-        <Forward x="-0.316495627" y="0.7896997" z="-0.525552" />
-        <Up x="0.947600663" y="0.23785831" z="-0.213251829" />
+        <Position x="-288029.41221520782" y="-2401752.4891656428" z="384754.28109539807" />
+        <Forward x="-0.30453068" y="0.794224" z="-0.525803268" />
+        <Up x="0.950727344" y="0.219768971" z="-0.2186751" />
         <Orientation>
-          <X>0.219767928</X>
-          <Y>0.434656262</Y>
-          <Z>-0.5768648</Z>
-          <W>0.655746162</W>
+          <X>0.221532211</X>
+          <Y>0.43361485</Y>
+          <Z>-0.5839855</Z>
+          <W>0.6495095</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18511,14 +18511,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>127421754781589872</Name>
       <PositionAndOrientation>
-        <Position x="-291511.55129105295" y="-2401908.2330778986" z="384072.23894838209" />
-        <Forward x="0.217166156" y="0.5190191" z="-0.826715231" />
-        <Up x="-0.185817242" y="0.8534215" z="0.486974031" />
+        <Position x="-291511.55113122344" y="-2401908.231841424" z="384072.23568524182" />
+        <Forward x="0.217149645" y="0.5190819" z="-0.8266802" />
+        <Up x="-0.1859017" y="0.853379846" z="0.48701486" />
         <Orientation>
-          <X>0.263699</X>
-          <Y>-0.13078697</Y>
-          <Z>0.0612543151</Z>
-          <W>0.953732431</W>
+          <X>0.2637294</X>
+          <Y>-0.130792722</Y>
+          <Z>0.0612935834</Z>
+          <W>0.9537207</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -18545,7 +18545,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.0499826074</CurrentStoredPower>
+          <CurrentStoredPower>0.04996316</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
