@@ -10,7 +10,7 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>1900830</ActivationTimeMs>
+        <ActivationTimeMs>1600814</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
@@ -1249,7 +1249,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99975324</CurrentStoredPower>
+          <CurrentStoredPower>2.99962449</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -2513,7 +2513,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99975324</CurrentStoredPower>
+          <CurrentStoredPower>2.99962449</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3150,7 +3150,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99975324</CurrentStoredPower>
+          <CurrentStoredPower>2.99962449</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -3998,7 +3998,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>3</CurrentShownTexture>
+          <CurrentShownTexture>0</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4079,7 +4079,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>0</CurrentShownTexture>
+          <CurrentShownTexture>1</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4160,7 +4160,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>0</CurrentShownTexture>
+          <CurrentShownTexture>1</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -4241,7 +4241,7 @@
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>3</CurrentShownTexture>
+          <CurrentShownTexture>0</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -5857,7 +5857,7 @@
                   <Repeat>true</Repeat>
                   <TimeToEvent>0</TimeToEvent>
                   <SetTimeMinutes>0</SetTimeMinutes>
-                  <TimerEnabled>false</TimerEnabled>
+                  <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame100</TimerType>
                   <FramesFromLastTrigger>0</FramesFromLastTrigger>
@@ -5869,11 +5869,11 @@
           </ComponentContainer>
           <CustomName>Atmospheric Thrusters</CustomName>
           <ShowOnHUD>false</ShowOnHUD>
-          <ShowInTerminal>false</ShowInTerminal>
+          <ShowInTerminal>true</ShowInTerminal>
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
-          <Enabled>false</Enabled>
+          <Enabled>true</Enabled>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
           <SubtypeName>SmallBlockSmallAtmosphericThrust</SubtypeName>
@@ -5891,7 +5891,7 @@
                   <Repeat>true</Repeat>
                   <TimeToEvent>0</TimeToEvent>
                   <SetTimeMinutes>0</SetTimeMinutes>
-                  <TimerEnabled>false</TimerEnabled>
+                  <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame100</TimerType>
                   <FramesFromLastTrigger>0</FramesFromLastTrigger>
@@ -5903,11 +5903,11 @@
           </ComponentContainer>
           <CustomName>Atmospheric Thrusters 2</CustomName>
           <ShowOnHUD>false</ShowOnHUD>
-          <ShowInTerminal>false</ShowInTerminal>
+          <ShowInTerminal>true</ShowInTerminal>
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
-          <Enabled>false</Enabled>
+          <Enabled>true</Enabled>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
           <SubtypeName>SmallBlockSmallAtmosphericThrust</SubtypeName>
@@ -5925,7 +5925,7 @@
                   <Repeat>true</Repeat>
                   <TimeToEvent>0</TimeToEvent>
                   <SetTimeMinutes>0</SetTimeMinutes>
-                  <TimerEnabled>false</TimerEnabled>
+                  <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame100</TimerType>
                   <FramesFromLastTrigger>0</FramesFromLastTrigger>
@@ -5937,11 +5937,11 @@
           </ComponentContainer>
           <CustomName>Atmospheric Thrusters 3</CustomName>
           <ShowOnHUD>false</ShowOnHUD>
-          <ShowInTerminal>false</ShowInTerminal>
+          <ShowInTerminal>true</ShowInTerminal>
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
-          <Enabled>false</Enabled>
+          <Enabled>true</Enabled>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
           <SubtypeName>SmallBlockSmallAtmosphericThrust</SubtypeName>
@@ -5959,7 +5959,7 @@
                   <Repeat>true</Repeat>
                   <TimeToEvent>0</TimeToEvent>
                   <SetTimeMinutes>0</SetTimeMinutes>
-                  <TimerEnabled>false</TimerEnabled>
+                  <TimerEnabled>true</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame100</TimerType>
                   <FramesFromLastTrigger>0</FramesFromLastTrigger>
@@ -5971,11 +5971,11 @@
           </ComponentContainer>
           <CustomName>Atmospheric Thrusters 4</CustomName>
           <ShowOnHUD>false</ShowOnHUD>
-          <ShowInTerminal>false</ShowInTerminal>
+          <ShowInTerminal>true</ShowInTerminal>
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>4</NumberInGrid>
-          <Enabled>false</Enabled>
+          <Enabled>true</Enabled>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -6034,7 +6034,7 @@
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.97847724</CurrentStoredPower>
+          <CurrentStoredPower>0.9764999</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -6056,7 +6056,7 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>2702.651202</Amount>
+                      <Amount>2702.493702</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Ore">
                         <SubtypeName>Ice</SubtypeName>
                         <MaterialNameString>TritonIce</MaterialNameString>
@@ -6082,7 +6082,7 @@
                   <TimerEnabled>false</TimerEnabled>
                   <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                   <TimerType>Frame10</TimerType>
-                  <FramesFromLastTrigger>190</FramesFromLastTrigger>
+                  <FramesFromLastTrigger>240</FramesFromLastTrigger>
                   <TimerTickInFrames>300</TimerTickInFrames>
                   <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                 </Component>
@@ -6205,6 +6205,335 @@
           <BuiltBy>144115188075855897</BuiltBy>
           <ComponentContainer>
             <Components>
+              <ComponentData>
+                <TypeId>MyHierarchyComponentBase</TypeId>
+                <Component xsi:type="MyObjectBuilder_HierarchyComponentBase">
+                  <Children>
+                    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
+                      <SubtypeName>Default_Astronaut</SubtypeName>
+                      <EntityId>135296356127215653</EntityId>
+                      <PersistentFlags>CastShadows InScene</PersistentFlags>
+                      <Name>135296356127215653</Name>
+                      <PositionAndOrientation>
+                        <Position x="-288383.58305051189" y="-2401649.4249194637" z="384538.54811291868" />
+                        <Forward x="-0.5386349" y="0.477641165" z="-0.694068551" />
+                        <Up x="-0.188935265" y="0.734328032" z="0.6519707" />
+                        <Orientation>
+                          <X>0.31332314</X>
+                          <Y>0.234081864</Y>
+                          <Z>0.186184391</Z>
+                          <W>0.9013155</W>
+                        </Orientation>
+                      </PositionAndOrientation>
+                      <LocalPositionAndOrientation>
+                        <Position x="0" y="0" z="0" />
+                        <Forward x="-2.77555756E-17" y="-0" z="-1" />
+                        <Up x="-2.77555756E-17" y="1" z="0" />
+                        <Orientation>
+                          <X>1.92593E-34</X>
+                          <Y>1.38777878E-17</Y>
+                          <Z>1.38777878E-17</Z>
+                          <W>1</W>
+                        </Orientation>
+                      </LocalPositionAndOrientation>
+                      <ComponentContainer>
+                        <Components>
+                          <ComponentData>
+                            <TypeId>MyEntityStatComponent</TypeId>
+                            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
+                              <Stats>
+                                <MyObjectBuilder_EntityStat>
+                                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
+                                  <Value>1</Value>
+                                  <MaxValue>1</MaxValue>
+                                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
+                                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
+                                </MyObjectBuilder_EntityStat>
+                              </Stats>
+                              <ScriptNames>
+                                <string>SpaceStatEffect</string>
+                              </ScriptNames>
+                            </Component>
+                          </ComponentData>
+                          <ComponentData>
+                            <TypeId>MyAssetModifierComponent</TypeId>
+                            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
+                              <AssetModifiers />
+                            </Component>
+                          </ComponentData>
+                          <ComponentData>
+                            <TypeId>MyInventoryBase</TypeId>
+                            <Component xsi:type="MyObjectBuilder_Inventory">
+                              <Items>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>1</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                                    <SubtypeName>AngleGrinderItem</SubtypeName>
+                                    <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
+                                      <SubtypeName>AngleGrinder</SubtypeName>
+                                      <EntityId>105161627725391979</EntityId>
+                                      <PersistentFlags>None</PersistentFlags>
+                                    </GunEntity>
+                                  </PhysicalContent>
+                                  <ItemId>0</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>1</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                                    <SubtypeName>HandDrillItem</SubtypeName>
+                                    <GunEntity xsi:type="MyObjectBuilder_HandDrill">
+                                      <SubtypeName>HandDrill</SubtypeName>
+                                      <EntityId>138598420517320419</EntityId>
+                                      <PersistentFlags>None</PersistentFlags>
+                                    </GunEntity>
+                                  </PhysicalContent>
+                                  <ItemId>1</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>1</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                                    <SubtypeName>WelderItem</SubtypeName>
+                                    <GunEntity xsi:type="MyObjectBuilder_Welder">
+                                      <SubtypeName>Welder</SubtypeName>
+                                      <EntityId>0</EntityId>
+                                      <PersistentFlags>None</PersistentFlags>
+                                    </GunEntity>
+                                  </PhysicalContent>
+                                  <ItemId>2</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>50.594598</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                                    <SubtypeName>Magnesium</SubtypeName>
+                                    <MaterialNameString>Magnesium_01</MaterialNameString>
+                                  </PhysicalContent>
+                                  <ItemId>21</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>12</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                                    <SubtypeName>SteelPlate</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>23</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>13</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                                    <SubtypeName>Construction</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>24</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>32</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                                    <SubtypeName>Computer</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>25</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>1</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                                    <SubtypeName>SmallTube</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>30</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>82</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                                    <SubtypeName>Scrap</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>31</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>7372</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
+                                    <SubtypeName>SpaceCredit</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>32</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>1</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                                    <SubtypeName>Display</SubtypeName>
+                                  </PhysicalContent>
+                                  <ItemId>33</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                                <MyObjectBuilder_InventoryItem>
+                                  <Amount>4492.747273</Amount>
+                                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                                    <SubtypeName>Ice</SubtypeName>
+                                    <MaterialNameString>TritonIce</MaterialNameString>
+                                  </PhysicalContent>
+                                  <ItemId>34</ItemId>
+                                </MyObjectBuilder_InventoryItem>
+                              </Items>
+                              <nextItemId>35</nextItemId>
+                              <Volume>0.4</Volume>
+                              <Mass>9223372036854.775807</Mass>
+                              <MaxItemCount>2147483647</MaxItemCount>
+                              <Size xsi:nil="true" />
+                              <InventoryFlags />
+                              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                            </Component>
+                          </ComponentData>
+                        </Components>
+                      </ComponentContainer>
+                      <CharacterModel>Default_Astronaut</CharacterModel>
+                      <Inventory>
+                        <Items>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>1</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                              <SubtypeName>AngleGrinderItem</SubtypeName>
+                              <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
+                                <SubtypeName>AngleGrinder</SubtypeName>
+                                <EntityId>105161627725391979</EntityId>
+                                <PersistentFlags>None</PersistentFlags>
+                              </GunEntity>
+                            </PhysicalContent>
+                            <ItemId>0</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>1</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                              <SubtypeName>HandDrillItem</SubtypeName>
+                              <GunEntity xsi:type="MyObjectBuilder_HandDrill">
+                                <SubtypeName>HandDrill</SubtypeName>
+                                <EntityId>138598420517320419</EntityId>
+                                <PersistentFlags>None</PersistentFlags>
+                              </GunEntity>
+                            </PhysicalContent>
+                            <ItemId>1</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>1</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                              <SubtypeName>WelderItem</SubtypeName>
+                              <GunEntity xsi:type="MyObjectBuilder_Welder">
+                                <SubtypeName>Welder</SubtypeName>
+                                <EntityId>0</EntityId>
+                                <PersistentFlags>None</PersistentFlags>
+                              </GunEntity>
+                            </PhysicalContent>
+                            <ItemId>2</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>50.594598</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                              <SubtypeName>Magnesium</SubtypeName>
+                              <MaterialNameString>Magnesium_01</MaterialNameString>
+                            </PhysicalContent>
+                            <ItemId>21</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>12</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                              <SubtypeName>SteelPlate</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>23</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>13</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                              <SubtypeName>Construction</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>24</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>32</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                              <SubtypeName>Computer</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>25</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>1</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                              <SubtypeName>SmallTube</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>30</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>82</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                              <SubtypeName>Scrap</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>31</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>7372</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
+                              <SubtypeName>SpaceCredit</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>32</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>1</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                              <SubtypeName>Display</SubtypeName>
+                            </PhysicalContent>
+                            <ItemId>33</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                          <MyObjectBuilder_InventoryItem>
+                            <Amount>4492.747273</Amount>
+                            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                              <SubtypeName>Ice</SubtypeName>
+                              <MaterialNameString>TritonIce</MaterialNameString>
+                            </PhysicalContent>
+                            <ItemId>34</ItemId>
+                          </MyObjectBuilder_InventoryItem>
+                        </Items>
+                        <nextItemId>35</nextItemId>
+                        <Volume>0.4</Volume>
+                        <Mass>9223372036854.775807</Mass>
+                        <MaxItemCount>2147483647</MaxItemCount>
+                        <Size xsi:nil="true" />
+                        <InventoryFlags />
+                        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                      </Inventory>
+                      <Battery>
+                        <CurrentCapacity>1E-05</CurrentCapacity>
+                        <RegenEffects />
+                      </Battery>
+                      <LightEnabled>true</LightEnabled>
+                      <UsingLadder xsi:nil="true" />
+                      <HeadAngle x="0" y="0" />
+                      <LinearVelocity x="0" y="0" z="0" />
+                      <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
+                      <JetpackEnabled>false</JetpackEnabled>
+                      <ColorMaskHSV x="0" y="-0.96" z="-0.5" />
+                      <LootingCounter>0</LootingCounter>
+                      <DisplayName>tuttop</DisplayName>
+                      <IsInFirstPersonView>true</IsInFirstPersonView>
+                      <EnableBroadcasting>true</EnableBroadcasting>
+                      <OxygenLevel>0.998950541</OxygenLevel>
+                      <EnvironmentOxygenLevel>0.9</EnvironmentOxygenLevel>
+                      <StoredGases>
+                        <StoredGas>
+                          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
+                          <FillLevel>0.6192619</FillLevel>
+                        </StoredGas>
+                        <StoredGas>
+                          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
+                          <FillLevel>0.998950541</FillLevel>
+                        </StoredGas>
+                      </StoredGases>
+                      <MovementState>Sitting</MovementState>
+                      <EnabledComponents>
+                        <string>RagdollComponent</string>
+                        <string>InventorySpawnComponent</string>
+                      </EnabledComponents>
+                      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
+                      <OwningPlayerIdentityId>144115188075855897</OwningPlayerIdentityId>
+                      <IsPersistenceCharacter>false</IsPersistenceCharacter>
+                      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
+                      <RelativeDampeningEntity>0</RelativeDampeningEntity>
+                      <UsingLadderInfo xsi:nil="true" />
+                      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
+                    </MyObjectBuilder_EntityBase>
+                  </Children>
+                </Component>
+              </ComponentData>
               <ComponentData>
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
@@ -6342,21 +6671,333 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <SlotsGamepad />
           </OnLockedToolbar>
           <IsTargetLockingEnabled>false</IsTargetLockingEnabled>
+          <Pilot>
+            <SubtypeName>Default_Astronaut</SubtypeName>
+            <EntityId>135296356127215653</EntityId>
+            <PersistentFlags>CastShadows InScene</PersistentFlags>
+            <Name>135296356127215653</Name>
+            <PositionAndOrientation>
+              <Position x="-288383.58305051189" y="-2401649.4249194637" z="384538.54811291868" />
+              <Forward x="-0.5386349" y="0.477641165" z="-0.694068551" />
+              <Up x="-0.188935265" y="0.734328032" z="0.6519707" />
+              <Orientation>
+                <X>0.31332314</X>
+                <Y>0.234081864</Y>
+                <Z>0.186184391</Z>
+                <W>0.9013155</W>
+              </Orientation>
+            </PositionAndOrientation>
+            <LocalPositionAndOrientation xsi:nil="true" />
+            <ComponentContainer>
+              <Components>
+                <ComponentData>
+                  <TypeId>MyEntityStatComponent</TypeId>
+                  <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
+                    <Stats>
+                      <MyObjectBuilder_EntityStat>
+                        <SubtypeName>SpaceCharacterHealth</SubtypeName>
+                        <Value>1</Value>
+                        <MaxValue>1</MaxValue>
+                        <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
+                        <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
+                      </MyObjectBuilder_EntityStat>
+                    </Stats>
+                    <ScriptNames>
+                      <string>SpaceStatEffect</string>
+                    </ScriptNames>
+                  </Component>
+                </ComponentData>
+                <ComponentData>
+                  <TypeId>MyAssetModifierComponent</TypeId>
+                  <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
+                    <AssetModifiers />
+                  </Component>
+                </ComponentData>
+                <ComponentData>
+                  <TypeId>MyInventoryBase</TypeId>
+                  <Component xsi:type="MyObjectBuilder_Inventory">
+                    <Items>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>1</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                          <SubtypeName>AngleGrinderItem</SubtypeName>
+                          <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
+                            <SubtypeName>AngleGrinder</SubtypeName>
+                            <EntityId>105161627725391979</EntityId>
+                            <PersistentFlags>None</PersistentFlags>
+                          </GunEntity>
+                        </PhysicalContent>
+                        <ItemId>0</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>1</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                          <SubtypeName>HandDrillItem</SubtypeName>
+                          <GunEntity xsi:type="MyObjectBuilder_HandDrill">
+                            <SubtypeName>HandDrill</SubtypeName>
+                            <EntityId>138598420517320419</EntityId>
+                            <PersistentFlags>None</PersistentFlags>
+                          </GunEntity>
+                        </PhysicalContent>
+                        <ItemId>1</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>1</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                          <SubtypeName>WelderItem</SubtypeName>
+                          <GunEntity xsi:type="MyObjectBuilder_Welder">
+                            <SubtypeName>Welder</SubtypeName>
+                            <EntityId>0</EntityId>
+                            <PersistentFlags>None</PersistentFlags>
+                          </GunEntity>
+                        </PhysicalContent>
+                        <ItemId>2</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>50.594598</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                          <SubtypeName>Magnesium</SubtypeName>
+                          <MaterialNameString>Magnesium_01</MaterialNameString>
+                        </PhysicalContent>
+                        <ItemId>21</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>12</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                          <SubtypeName>SteelPlate</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>23</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>13</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                          <SubtypeName>Construction</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>24</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>32</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                          <SubtypeName>Computer</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>25</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>1</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                          <SubtypeName>SmallTube</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>30</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>82</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                          <SubtypeName>Scrap</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>31</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>7372</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
+                          <SubtypeName>SpaceCredit</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>32</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>1</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                          <SubtypeName>Display</SubtypeName>
+                        </PhysicalContent>
+                        <ItemId>33</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                      <MyObjectBuilder_InventoryItem>
+                        <Amount>4492.747273</Amount>
+                        <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                          <SubtypeName>Ice</SubtypeName>
+                          <MaterialNameString>TritonIce</MaterialNameString>
+                        </PhysicalContent>
+                        <ItemId>34</ItemId>
+                      </MyObjectBuilder_InventoryItem>
+                    </Items>
+                    <nextItemId>35</nextItemId>
+                    <Volume>0.4</Volume>
+                    <Mass>9223372036854.775807</Mass>
+                    <MaxItemCount>2147483647</MaxItemCount>
+                    <Size xsi:nil="true" />
+                    <InventoryFlags />
+                    <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                  </Component>
+                </ComponentData>
+              </Components>
+            </ComponentContainer>
+            <CharacterModel>Default_Astronaut</CharacterModel>
+            <Inventory>
+              <Items>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>AngleGrinderItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
+                      <SubtypeName>AngleGrinder</SubtypeName>
+                      <EntityId>105161627725391979</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>0</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>HandDrillItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_HandDrill">
+                      <SubtypeName>HandDrill</SubtypeName>
+                      <EntityId>138598420517320419</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>1</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                    <SubtypeName>WelderItem</SubtypeName>
+                    <GunEntity xsi:type="MyObjectBuilder_Welder">
+                      <SubtypeName>Welder</SubtypeName>
+                      <EntityId>0</EntityId>
+                      <PersistentFlags>None</PersistentFlags>
+                    </GunEntity>
+                  </PhysicalContent>
+                  <ItemId>2</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>50.594598</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                    <SubtypeName>Magnesium</SubtypeName>
+                    <MaterialNameString>Magnesium_01</MaterialNameString>
+                  </PhysicalContent>
+                  <ItemId>21</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>12</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                    <SubtypeName>SteelPlate</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>23</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>13</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                    <SubtypeName>Construction</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>24</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>32</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                    <SubtypeName>Computer</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>25</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                    <SubtypeName>SmallTube</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>30</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>82</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                    <SubtypeName>Scrap</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>31</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>7372</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
+                    <SubtypeName>SpaceCredit</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>32</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>1</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                    <SubtypeName>Display</SubtypeName>
+                  </PhysicalContent>
+                  <ItemId>33</ItemId>
+                </MyObjectBuilder_InventoryItem>
+                <MyObjectBuilder_InventoryItem>
+                  <Amount>4492.747273</Amount>
+                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
+                    <SubtypeName>Ice</SubtypeName>
+                    <MaterialNameString>TritonIce</MaterialNameString>
+                  </PhysicalContent>
+                  <ItemId>34</ItemId>
+                </MyObjectBuilder_InventoryItem>
+              </Items>
+              <nextItemId>35</nextItemId>
+              <Volume>0.4</Volume>
+              <Mass>9223372036854.775807</Mass>
+              <MaxItemCount>2147483647</MaxItemCount>
+              <Size xsi:nil="true" />
+              <InventoryFlags />
+              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+            </Inventory>
+            <Battery>
+              <CurrentCapacity>1E-05</CurrentCapacity>
+              <RegenEffects />
+            </Battery>
+            <LightEnabled>true</LightEnabled>
+            <UsingLadder xsi:nil="true" />
+            <HeadAngle x="0" y="0" />
+            <LinearVelocity x="0" y="0" z="0" />
+            <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
+            <JetpackEnabled>false</JetpackEnabled>
+            <ColorMaskHSV x="0" y="-0.96" z="-0.5" />
+            <LootingCounter>0</LootingCounter>
+            <DisplayName>tuttop</DisplayName>
+            <IsInFirstPersonView>true</IsInFirstPersonView>
+            <EnableBroadcasting>true</EnableBroadcasting>
+            <OxygenLevel>0.998950541</OxygenLevel>
+            <EnvironmentOxygenLevel>0.9</EnvironmentOxygenLevel>
+            <StoredGases>
+              <StoredGas>
+                <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
+                <FillLevel>0.6192619</FillLevel>
+              </StoredGas>
+              <StoredGas>
+                <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
+                <FillLevel>0.998950541</FillLevel>
+              </StoredGas>
+            </StoredGases>
+            <MovementState>Sitting</MovementState>
+            <EnabledComponents>
+              <string>RagdollComponent</string>
+              <string>InventorySpawnComponent</string>
+            </EnabledComponents>
+            <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
+            <OwningPlayerIdentityId>144115188075855897</OwningPlayerIdentityId>
+            <IsPersistenceCharacter>false</IsPersistenceCharacter>
+            <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
+            <RelativeDampeningEntity>0</RelativeDampeningEntity>
+            <UsingLadderInfo xsi:nil="true" />
+            <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
+          </Pilot>
           <PilotRelativeWorld>
-            <Position x="-0.050594981759786606" y="-1.8647688627243042" z="-2.2264425754547119" />
-            <Forward x="0.0371908024" y="-0.000925140746" z="0.999307752" />
-            <Up x="0.0138553893" y="0.9999039" z="0.000410042674" />
+            <Position x="0.013763862662017345" y="-1.3763202428817749" z="-3.00421404838562" />
+            <Forward x="-0.041359" y="0.12996988" z="0.990654945" />
+            <Up x="0.178571761" y="0.9765008" z="-0.120657735" />
             <Orientation>
-              <X>0.00692284852</X>
-              <Y>0.999802947</Y>
-              <Z>0.000333861622</Z>
-              <W>-0.0186013766</W>
+              <X>0.088171564</X>
+              <Y>0.9937571</Y>
+              <Z>-0.06305051</Z>
+              <W>0.0264035966</W>
             </Orientation>
           </PilotRelativeWorld>
-          <PilotGunDefinition xsi:nil="true" />
+          <PilotGunDefinition Type="MyObjectBuilder_Welder" Subtype="Welder" />
           <IsInFirstPersonView>true</IsInFirstPersonView>
           <OxygenLevel>0</OxygenLevel>
-          <PilotJetpackEnabled xsi:nil="true" />
+          <PilotJetpackEnabled>false</PilotJetpackEnabled>
           <TargetData>
             <TargetId>0</TargetId>
             <IsTargetLocked>false</IsTargetLocked>
@@ -6891,6 +7532,18 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ConveyorLineType>SMALL_LINE</ConveyorLineType>
         </MyObjectBuilder_ConveyorLine>
       </ConveyorLines>
+      <BlockGroups>
+        <MyObjectBuilder_BlockGroup>
+          <Name>t</Name>
+          <Blocks>
+            <Vector3I>
+              <X>-3</X>
+              <Y>0</Y>
+              <Z>0</Z>
+            </Vector3I>
+          </Blocks>
+        </MyObjectBuilder_BlockGroup>
+      </BlockGroups>
       <DisplayName>Respawn Planet Pod</DisplayName>
       <DestructibleBlocks>true</DestructibleBlocks>
       <IsRespawnGrid>true</IsRespawnGrid>
@@ -7033,346 +7686,6 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         </PhysicalContent>
         <ItemId>0</ItemId>
       </Item>
-    </MyObjectBuilder_EntityBase>
-    <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Character">
-      <SubtypeName>Default_Astronaut</SubtypeName>
-      <EntityId>135296356127215653</EntityId>
-      <PersistentFlags>CastShadows InScene</PersistentFlags>
-      <Name>135296356127215653</Name>
-      <PositionAndOrientation>
-        <Position x="-288388.06190849928" y="-2401652.0442967755" z="384540.55022215657" />
-        <Forward x="0.9908656" y="0.0448452234" z="0.127177536" />
-        <Up x="-0.102928638" y="0.860817254" z="0.4983967" />
-        <Orientation>
-          <X>0.211680368</X>
-          <Y>-0.720263958</Y>
-          <Z>-0.157425433</Z>
-          <W>0.6415828</W>
-        </Orientation>
-      </PositionAndOrientation>
-      <LocalPositionAndOrientation xsi:nil="true" />
-      <ComponentContainer>
-        <Components>
-          <ComponentData>
-            <TypeId>MyEntityStatComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_CharacterStatComponent">
-              <Stats>
-                <MyObjectBuilder_EntityStat>
-                  <SubtypeName>SpaceCharacterHealth</SubtypeName>
-                  <Value>1</Value>
-                  <MaxValue>1</MaxValue>
-                  <StatRegenAmountMultiplier>1</StatRegenAmountMultiplier>
-                  <StatRegenAmountMultiplierDuration>0</StatRegenAmountMultiplierDuration>
-                </MyObjectBuilder_EntityStat>
-              </Stats>
-              <ScriptNames>
-                <string>SpaceStatEffect</string>
-              </ScriptNames>
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyAssetModifierComponent</TypeId>
-            <Component xsi:type="MyObjectBuilder_AssetModifierComponent">
-              <AssetModifiers />
-            </Component>
-          </ComponentData>
-          <ComponentData>
-            <TypeId>MyInventoryBase</TypeId>
-            <Component xsi:type="MyObjectBuilder_Inventory">
-              <Items>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>AngleGrinderItem</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
-                      <SubtypeName>AngleGrinder</SubtypeName>
-                      <EntityId>140551339905301807</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>0</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>HandDrillItem</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_HandDrill">
-                      <SubtypeName>HandDrill</SubtypeName>
-                      <EntityId>103334671568574734</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>1</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                    <SubtypeName>WelderItem</SubtypeName>
-                    <GunEntity xsi:type="MyObjectBuilder_Welder">
-                      <SubtypeName>Welder</SubtypeName>
-                      <EntityId>74063887516548179</EntityId>
-                      <PersistentFlags>None</PersistentFlags>
-                    </GunEntity>
-                  </PhysicalContent>
-                  <ItemId>2</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>50.594598</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-                    <SubtypeName>Magnesium</SubtypeName>
-                    <MaterialNameString>Magnesium_01</MaterialNameString>
-                  </PhysicalContent>
-                  <ItemId>21</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>18</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>SteelPlate</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>23</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>33</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>Construction</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>24</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>34</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>Computer</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>25</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>5</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>InteriorPlate</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>26</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>2</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>Motor</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>29</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>SmallTube</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>30</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>82</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-                    <SubtypeName>Scrap</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>31</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>7372</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
-                    <SubtypeName>SpaceCredit</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>32</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>1</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>Display</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>33</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>4492.747273</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-                    <SubtypeName>Ice</SubtypeName>
-                    <MaterialNameString>TritonIce</MaterialNameString>
-                  </PhysicalContent>
-                  <ItemId>34</ItemId>
-                </MyObjectBuilder_InventoryItem>
-              </Items>
-              <nextItemId>35</nextItemId>
-              <Volume>0.4</Volume>
-              <Mass>9223372036854.775807</Mass>
-              <MaxItemCount>2147483647</MaxItemCount>
-              <Size xsi:nil="true" />
-              <InventoryFlags />
-              <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-            </Component>
-          </ComponentData>
-        </Components>
-      </ComponentContainer>
-      <CharacterModel>Default_Astronaut</CharacterModel>
-      <Inventory>
-        <Items>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>AngleGrinderItem</SubtypeName>
-              <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
-                <SubtypeName>AngleGrinder</SubtypeName>
-                <EntityId>140551339905301807</EntityId>
-                <PersistentFlags>None</PersistentFlags>
-              </GunEntity>
-            </PhysicalContent>
-            <ItemId>0</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>HandDrillItem</SubtypeName>
-              <GunEntity xsi:type="MyObjectBuilder_HandDrill">
-                <SubtypeName>HandDrill</SubtypeName>
-                <EntityId>103334671568574734</EntityId>
-                <PersistentFlags>None</PersistentFlags>
-              </GunEntity>
-            </PhysicalContent>
-            <ItemId>1</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-              <SubtypeName>WelderItem</SubtypeName>
-              <GunEntity xsi:type="MyObjectBuilder_Welder">
-                <SubtypeName>Welder</SubtypeName>
-                <EntityId>74063887516548179</EntityId>
-                <PersistentFlags>None</PersistentFlags>
-              </GunEntity>
-            </PhysicalContent>
-            <ItemId>2</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>50.594598</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-              <SubtypeName>Magnesium</SubtypeName>
-              <MaterialNameString>Magnesium_01</MaterialNameString>
-            </PhysicalContent>
-            <ItemId>21</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>18</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>SteelPlate</SubtypeName>
-            </PhysicalContent>
-            <ItemId>23</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>33</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>Construction</SubtypeName>
-            </PhysicalContent>
-            <ItemId>24</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>34</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>Computer</SubtypeName>
-            </PhysicalContent>
-            <ItemId>25</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>5</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>InteriorPlate</SubtypeName>
-            </PhysicalContent>
-            <ItemId>26</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>2</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>Motor</SubtypeName>
-            </PhysicalContent>
-            <ItemId>29</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>SmallTube</SubtypeName>
-            </PhysicalContent>
-            <ItemId>30</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>82</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-              <SubtypeName>Scrap</SubtypeName>
-            </PhysicalContent>
-            <ItemId>31</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>7372</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
-              <SubtypeName>SpaceCredit</SubtypeName>
-            </PhysicalContent>
-            <ItemId>32</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>1</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>Display</SubtypeName>
-            </PhysicalContent>
-            <ItemId>33</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>4492.747273</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Ore">
-              <SubtypeName>Ice</SubtypeName>
-              <MaterialNameString>TritonIce</MaterialNameString>
-            </PhysicalContent>
-            <ItemId>34</ItemId>
-          </MyObjectBuilder_InventoryItem>
-        </Items>
-        <nextItemId>35</nextItemId>
-        <Volume>0.4</Volume>
-        <Mass>9223372036854.775807</Mass>
-        <MaxItemCount>2147483647</MaxItemCount>
-        <Size xsi:nil="true" />
-        <InventoryFlags />
-        <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
-      </Inventory>
-      <Battery>
-        <CurrentCapacity>2.43710224E-06</CurrentCapacity>
-        <RegenEffects />
-      </Battery>
-      <LightEnabled>true</LightEnabled>
-      <UsingLadder xsi:nil="true" />
-      <HeadAngle x="-10.8919735" y="0" />
-      <LinearVelocity x="-0.5513873" y="-2.8308363" z="5.21775055" />
-      <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
-      <JetpackEnabled>false</JetpackEnabled>
-      <ColorMaskHSV x="0" y="-0.96" z="-0.5" />
-      <LootingCounter>0</LootingCounter>
-      <DisplayName>tuttop</DisplayName>
-      <IsInFirstPersonView>true</IsInFirstPersonView>
-      <EnableBroadcasting>true</EnableBroadcasting>
-      <OxygenLevel>0.998950541</OxygenLevel>
-      <EnvironmentOxygenLevel>0.9</EnvironmentOxygenLevel>
-      <StoredGases>
-        <StoredGas>
-          <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-          <FillLevel>0.7935439</FillLevel>
-        </StoredGas>
-        <StoredGas>
-          <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
-          <FillLevel>0.998950541</FillLevel>
-        </StoredGas>
-      </StoredGases>
-      <MovementState>RunStrafingRight</MovementState>
-      <EnabledComponents>
-        <string>RagdollComponent</string>
-        <string>InventorySpawnComponent</string>
-      </EnabledComponents>
-      <NeedsOxygenFromSuit>false</NeedsOxygenFromSuit>
-      <OwningPlayerIdentityId>144115188075855897</OwningPlayerIdentityId>
-      <IsPersistenceCharacter>false</IsPersistenceCharacter>
-      <IsStartingCharacterForLobby>false</IsStartingCharacterForLobby>
-      <RelativeDampeningEntity>0</RelativeDampeningEntity>
-      <UsingLadderInfo xsi:nil="true" />
-      <EnableBroadcastingPlayerToggle>true</EnableBroadcastingPlayerToggle>
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_Planet">
       <SubtypeName />
@@ -7654,13 +7967,111 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <BuildPercent>1.52590219E-05</BuildPercent>
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeBlockArmorBlock</SubtypeName>
+          <EntityId>91828762042686548</EntityId>
+          <Name>91828762042686548</Name>
+          <Min x="-1" y="0" z="-1" />
+          <IntegrityPercent>1.52590219E-05</IntegrityPercent>
+          <BuildPercent>1.52590219E-05</BuildPercent>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeBlockArmorBlock</SubtypeName>
+          <EntityId>135945026499774049</EntityId>
+          <Name>135945026499774049</Name>
+          <Min x="0" y="1" z="0" />
+          <IntegrityPercent>1.52590219E-05</IntegrityPercent>
+          <BuildPercent>1.52590219E-05</BuildPercent>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeBlockArmorBlock</SubtypeName>
+          <EntityId>96534921417823988</EntityId>
+          <Name>96534921417823988</Name>
+          <Min x="0" y="2" z="0" />
+          <IntegrityPercent>1.52590219E-05</IntegrityPercent>
+          <BuildPercent>1.52590219E-05</BuildPercent>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeBlockArmorBlock</SubtypeName>
+          <EntityId>97362908096557594</EntityId>
+          <Name>97362908096557594</Name>
+          <Min x="0" y="3" z="0" />
+          <IntegrityPercent>1.52590219E-05</IntegrityPercent>
+          <BuildPercent>1.52590219E-05</BuildPercent>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeBlockArmorBlock</SubtypeName>
+          <EntityId>88855116721634020</EntityId>
+          <Name>88855116721634020</Name>
+          <Min x="0" y="4" z="0" />
+          <IntegrityPercent>1.52590219E-05</IntegrityPercent>
+          <BuildPercent>1.52590219E-05</BuildPercent>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeBlockArmorBlock</SubtypeName>
+          <EntityId>104381320783108978</EntityId>
+          <Name>104381320783108978</Name>
+          <Min x="0" y="5" z="0" />
+          <IntegrityPercent>1.52590219E-05</IntegrityPercent>
+          <BuildPercent>1.52590219E-05</BuildPercent>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_WindTurbine">
+          <SubtypeName>LargeBlockWindTurbine</SubtypeName>
+          <EntityId>79196544724376893</EntityId>
+          <Name>79196544724376893</Name>
+          <Min x="-1" y="6" z="-1" />
+          <IntegrityPercent>0.0398512222</IntegrityPercent>
+          <BuildPercent>0.0398512222</BuildPercent>
+          <ConstructionStockpile>
+            <Items xsi:type="MyObjectBuilder_StockpileItem">
+              <Amount>2</Amount>
+              <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                <SubtypeName>Motor</SubtypeName>
+              </PhysicalContent>
+            </Items>
+            <Items xsi:type="MyObjectBuilder_StockpileItem">
+              <Amount>20</Amount>
+              <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                <SubtypeName>Construction</SubtypeName>
+              </PhysicalContent>
+            </Items>
+            <Items xsi:type="MyObjectBuilder_StockpileItem">
+              <Amount>2</Amount>
+              <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                <SubtypeName>Computer</SubtypeName>
+              </PhysicalContent>
+            </Items>
+          </ConstructionStockpile>
+          <Owner>144115188075855897</Owner>
+          <BuiltBy>144115188075855897</BuiltBy>
+          <ShareMode>Faction</ShareMode>
+          <ShowOnHUD>false</ShowOnHUD>
+          <ShowInTerminal>true</ShowInTerminal>
+          <ShowInToolbarConfig>true</ShowInToolbarConfig>
+          <ShowInInventory>true</ShowInInventory>
+          <NumberInGrid>1</NumberInGrid>
+          <Enabled>true</Enabled>
+          <ImmediateEffectivities>
+            <float>0.571416855</float>
+            <float>1</float>
+            <float>1</float>
+            <float>1</float>
+            <float>1</float>
+            <float>1</float>
+            <float>1</float>
+            <float>1</float>
+            <float>1</float>
+          </ImmediateEffectivities>
+        </MyObjectBuilder_CubeBlock>
       </CubeBlocks>
       <IsStatic>true</IsStatic>
       <Skeleton>
-        <BoneInfo>
-          <BonePosition x="-2" y="0" z="0" />
-          <BoneOffset x="138" y="135" z="140" />
-        </BoneInfo>
         <BoneInfo>
           <BonePosition x="-2" y="0" z="1" />
           <BoneOffset x="132" y="135" z="130" />
@@ -7680,10 +8091,6 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         <BoneInfo>
           <BonePosition x="3" y="0" z="0" />
           <BoneOffset x="127" y="134" z="114" />
-        </BoneInfo>
-        <BoneInfo>
-          <BonePosition x="1" y="2" z="1" />
-          <BoneOffset x="126" y="116" z="136" />
         </BoneInfo>
         <BoneInfo>
           <BonePosition x="3" y="2" z="1" />
@@ -7708,10 +8115,6 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
         <BoneInfo>
           <BonePosition x="-1" y="0" z="1" />
           <BoneOffset x="127" y="140" z="153" />
-        </BoneInfo>
-        <BoneInfo>
-          <BonePosition x="-1" y="0" z="0" />
-          <BoneOffset x="124" y="140" z="117" />
         </BoneInfo>
         <BoneInfo>
           <BonePosition x="4" y="2" z="-1" />
@@ -7746,40 +8149,20 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <BoneOffset x="128" y="136" z="124" />
         </BoneInfo>
         <BoneInfo>
-          <BonePosition x="0" y="0" z="-1" />
-          <BoneOffset x="130" y="130" z="142" />
-        </BoneInfo>
-        <BoneInfo>
           <BonePosition x="2" y="0" z="1" />
           <BoneOffset x="127" y="134" z="124" />
-        </BoneInfo>
-        <BoneInfo>
-          <BonePosition x="0" y="1" z="-1" />
-          <BoneOffset x="129" y="126" z="120" />
         </BoneInfo>
         <BoneInfo>
           <BonePosition x="2" y="2" z="-1" />
           <BoneOffset x="123" y="123" z="125" />
         </BoneInfo>
         <BoneInfo>
-          <BonePosition x="0" y="2" z="1" />
-          <BoneOffset x="130" y="114" z="103" />
-        </BoneInfo>
-        <BoneInfo>
           <BonePosition x="-2" y="1" z="1" />
           <BoneOffset x="134" y="127" z="140" />
         </BoneInfo>
         <BoneInfo>
-          <BonePosition x="2" y="2" z="1" />
-          <BoneOffset x="127" y="122" z="150" />
-        </BoneInfo>
-        <BoneInfo>
           <BonePosition x="0" y="1" z="1" />
           <BoneOffset x="126" y="124" z="125" />
-        </BoneInfo>
-        <BoneInfo>
-          <BonePosition x="-2" y="1" z="0" />
-          <BoneOffset x="137" y="128" z="118" />
         </BoneInfo>
         <BoneInfo>
           <BonePosition x="2" y="0" z="-1" />
@@ -8172,7 +8555,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99572277</CurrentStoredPower>
+          <CurrentStoredPower>2.99349117</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8297,7 +8680,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>2</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99572277</CurrentStoredPower>
+          <CurrentStoredPower>2.99349117</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8351,7 +8734,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>3</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99572277</CurrentStoredPower>
+          <CurrentStoredPower>2.99349117</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8477,7 +8860,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>4</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99572277</CurrentStoredPower>
+          <CurrentStoredPower>2.99349117</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8525,7 +8908,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>5</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99572277</CurrentStoredPower>
+          <CurrentStoredPower>2.99349117</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -8683,7 +9066,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>6</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99572277</CurrentStoredPower>
+          <CurrentStoredPower>2.99349117</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -15218,7 +15601,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <SlotsGamepad />
           </Toolbar>
           <Delay>29000</Delay>
-          <CurrentTime>20700</CurrentTime>
+          <CurrentTime>11736</CurrentTime>
           <IsCountingDown>true</IsCountingDown>
           <Silent>true</Silent>
         </MyObjectBuilder_CubeBlock>
@@ -20036,7 +20419,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
             <B>0</B>
             <A>255</A>
           </BackgroundColor>
-          <CurrentShownTexture>4</CurrentShownTexture>
+          <CurrentShownTexture>5</CurrentShownTexture>
           <ContentType>TEXT_AND_IMAGE</ContentType>
           <SelectedScript />
           <TextPadding>2</TextPadding>
@@ -21713,14 +22096,14 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <Name>124438340772977101</Name>
       <PositionAndOrientation>
-        <Position x="-287792.1498543038" y="-2397302.7289978676" z="382731.90918830619" />
-        <Forward x="-0.1185223" y="0.4626848" z="-0.8785643" />
-        <Up x="-0.09664067" y="0.8752252" z="0.473963559" />
+        <Position x="-289153.64272844931" y="-2400676.1494080238" z="382566.53321174369" />
+        <Forward x="0.130982742" y="-0.365222484" z="0.9216592" />
+        <Up x="-0.394436151" y="-0.872117639" z="-0.289535075" />
         <Orientation>
-          <X>0.242099077</X>
-          <Y>0.045889914</Y>
-          <Z>0.0614446439</Z>
-          <W>0.967215955</W>
+          <X>0.9622003</X>
+          <Y>-0.1870837</Y>
+          <Z>-0.101141155</Z>
+          <W>-0.170119911</W>
         </Orientation>
       </PositionAndOrientation>
       <LocalPositionAndOrientation xsi:nil="true" />
@@ -21891,7 +22274,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <ShowInInventory>true</ShowInInventory>
           <NumberInGrid>1</NumberInGrid>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.04999975</CurrentStoredPower>
+          <CurrentStoredPower>0.04998567</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -21911,15 +22294,7 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
               <ComponentData>
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
-                  <Items>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Canvas</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>0</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                  </Items>
+                  <Items />
                   <nextItemId>1</nextItemId>
                   <Volume>0.008</Volume>
                   <Mass>9223372036854.775807</Mass>
@@ -22039,7 +22414,8 @@ GPS:GalacticMerchants - Станция:-267563.548828959:-2413809.40765202:39334
           <Offset>0.5</Offset>
         </MyObjectBuilder_CubeBlock>
       </CubeBlocks>
-      <LinearVelocity x="3.92132664" y="-43.776844" z="-20.2562256" />
+      <LinearVelocity x="-5.20936966" y="-4.37808037" z="0.167429924" />
+      <AngularVelocity x="1.17271566" y="-2.966244" z="4.486397" />
       <DisplayName>Container MK-1</DisplayName>
       <DestructibleBlocks>true</DestructibleBlocks>
       <IsRespawnGrid>true</IsRespawnGrid>
